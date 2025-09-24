@@ -1,0 +1,28 @@
+=== PAGE 5 ===
+
+SPEAKING BEING
+W E R N E R  E R H A R D, M A RT I N  H E I D E G G E R, 
+AND A NEW POSSIBILITY OF BEING HUMAN
+BRUCE HYDE AND DREW KOPP
+AFTERWORD BY MICHAEL E. ZIMMERMAN 
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 3,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 164.6,
+    "bottom": 167.2,
+    "left": 298.22,
+    "right": 27.42
+  }
+}
+
+=== FONTS USED ===
+UniversLTStd-UltraCn_20.0
+UniversLTStd-UltraCn_28.0
+UniversLTStd-UltraCn_78.0

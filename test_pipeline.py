@@ -30,7 +30,7 @@ def test_pipeline():
     try:
         import subprocess
         result = subprocess.run([
-            sys.executable, "pdf_extractor.py", pdf_file, "--pages", "5"
+            "uv", "run", "python", "pdf_extractor.py", pdf_file, "--pages", "5"
         ], capture_output=True, text=True)
         
         if result.returncode == 0:
@@ -80,7 +80,7 @@ def test_pipeline():
     
     try:
         result = subprocess.run([
-            sys.executable, "translation_manager.py", "--document", str(doc.id), "--status"
+            "uv", "run", "python", "translation_manager.py", "--document", str(doc.id), "--status"
         ], capture_output=True, text=True)
         
         if result.returncode == 0:
@@ -100,7 +100,7 @@ def test_pipeline():
     
     try:
         result = subprocess.run([
-            sys.executable, "pdf_reconstructor.py", "--document", str(doc.id), "--output", "test_output.pdf"
+            "uv", "run", "python", "pdf_reconstructor.py", "--document", str(doc.id), "--output", "test_output.pdf"
         ], capture_output=True, text=True)
         
         if result.returncode == 0:

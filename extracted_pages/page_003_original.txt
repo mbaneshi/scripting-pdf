@@ -1,0 +1,22 @@
+=== PAGE 3 ===
+
+SPEAKING BEING
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 1,
+  "images_count": 0,
+  "has_columns": false,
+  "margins": {
+    "top": 266.48,
+    "bottom": 305.52,
+    "left": 275.66,
+    "right": 275.66
+  }
+}
+
+=== FONTS USED ===
+UniversLTStd-UltraCn_40.0

@@ -1,0 +1,38 @@
+=== PAGE 1 ===
+
+“Millions have experienced the ideas of Werner Erhard, one of the most incisive 
+and insightful thinkers of our generation. This book gives two additional and rare 
+opportunities: to read the text of a Forum led by Erhard, and in parallel, to walk with 
+a guide to the synergies between Erhard and the thinking of Martin Heidegger.”
+— David Eagleman, PhD, neuroscientist at Stanford University, 
+New York Times bestselling author
+SPEAKING BEING
+WERNER ERHARD, MARTIN HEIDEGGER, 
+AND A NEW POSSIBILITY OF BEING HUMAN
+BRUCE HYDE AND DREW KOPP
+A FTERWO RD  BY  MI CH A EL E. ZIMMERMA N
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.39599609375,
+  "page_height": 612.0,
+  "text_blocks_count": 10,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 38.83,
+    "bottom": 100.94,
+    "left": 292.44,
+    "right": 15.3
+  }
+}
+
+=== FONTS USED ===
+UniversLTStd-UltraCn_29.787399291992188
+UniversLTStd-Obl_9.90779972076416
+UniversLTStd-UltraCn_19.0
+UniversLTStd_11.505900382995605
+UniversLTStd-UltraCn_79.26270294189453
+UniversLTStd_9.90779972076416
+UniversLTStd-UltraCn_36.0

@@ -6,7 +6,7 @@ Groups pages into logical chapters based on content analysis
 
 import os
 import re
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Any
 from pathlib import Path
 
 def analyze_page_content(page_text: str) -> Dict[str, Any]:

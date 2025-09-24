@@ -1,0 +1,28 @@
+📚 CHAPTER EXTRACTION SUMMARY
+==================================================
+
+📊 Statistics:
+   Total chapters: 3
+   Total pages: 579
+   Average pages per chapter: 193.0
+
+📖 Chapter Details:
+------------------------------
+Chapter 1: Introduction
+   Pages: 1-5 (5 pages)
+   Content: 973 characters
+   Non-empty pages: 5
+   Average words per page: 39
+
+Chapter 2: Chapter 2
+   Pages: 6-437 (432 pages)
+   Content: 1079585 characters
+   Non-empty pages: 432
+   Average words per page: 445
+
+Chapter 3: Chapter 3
+   Pages: 438-579 (142 pages)
+   Content: 379508 characters
+   Non-empty pages: 142
+   Average words per page: 464
+

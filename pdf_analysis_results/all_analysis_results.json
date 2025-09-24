@@ -1,0 +1,4229 @@
+[
+  {
+    "filename": "Bruce_Hyde,_Drew_Kopp_Speaking_Being_Werner_Erhard,_Martin_Heidegger (1).pdf",
+    "filepath": "./Bruce_Hyde,_Drew_Kopp_Speaking_Being_Werner_Erhard,_Martin_Heidegger (1).pdf",
+    "pages": 579,
+    "total_words": 253162,
+    "total_characters": 1404042,
+    "total_sentences": 20080,
+    "unique_words": 11702,
+    "avg_words_per_page": 437.24006908462866,
+    "avg_chars_per_page": 2424.943005181347,
+    "avg_sentences_per_page": 34.68048359240069,
+    "avg_words_per_sentence": 12.607669322709164,
+    "top_words": {
+      "the": 11710,
+      "and": 6325,
+      "you": 6094,
+      "that": 5065,
+      "what": 2327,
+      "being": 2207,
+      "not": 2038,
+      "for": 1979,
+      "this": 1923,
+      "with": 1817,
+      "erhard": 1672,
+      "are": 1600,
+      "its": 1525,
+      "your": 1452,
+      "was": 1277,
+      "have": 1226,
+      "about": 1167,
+      "but": 1136,
+      "dont": 1071,
+      "get": 1070
+    },
+    "top_characters": {
+      " ": 236751,
+      "e": 123949,
+      "t": 105090,
+      "o": 87981,
+      "a": 79675,
+      "n": 78426,
+      "i": 78048,
+      "s": 63717,
+      "h": 56966,
+      "r": 56629
+    },
+    "page_stats": {
+      "1": {
+        "word_count": 97,
+        "character_count": 572,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 24.25
+      },
+      "2": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "3": {
+        "word_count": 2,
+        "character_count": 14,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 2.0
+      },
+      "4": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "5": {
+        "word_count": 45,
+        "character_count": 165,
+        "sentence_count": 2,
+        "avg_words_per_sentence": 22.5
+      },
+      "6": {
+        "word_count": 764,
+        "character_count": 4955,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 14.415094339622641
+      },
+      "7": {
+        "word_count": 160,
+        "character_count": 874,
+        "sentence_count": 6,
+        "avg_words_per_sentence": 26.666666666666668
+      },
+      "8": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "9": {
+        "word_count": 426,
+        "character_count": 2489,
+        "sentence_count": 3,
+        "avg_words_per_sentence": 142.0
+      },
+      "10": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "11": {
+        "word_count": 138,
+        "character_count": 888,
+        "sentence_count": 7,
+        "avg_words_per_sentence": 19.714285714285715
+      },
+      "12": {
+        "word_count": 641,
+        "character_count": 4141,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 23.74074074074074
+      },
+      "13": {
+        "word_count": 588,
+        "character_count": 3798,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 30.94736842105263
+      },
+      "14": {
+        "word_count": 232,
+        "character_count": 1594,
+        "sentence_count": 10,
+        "avg_words_per_sentence": 23.2
+      },
+      "15": {
+        "word_count": 906,
+        "character_count": 5386,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 19.695652173913043
+      },
+      "16": {
+        "word_count": 982,
+        "character_count": 5952,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 26.54054054054054
+      },
+      "17": {
+        "word_count": 859,
+        "character_count": 5503,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 30.678571428571427
+      },
+      "18": {
+        "word_count": 895,
+        "character_count": 5426,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 26.323529411764707
+      },
+      "19": {
+        "word_count": 707,
+        "character_count": 4389,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 23.566666666666666
+      },
+      "20": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "21": {
+        "word_count": 611,
+        "character_count": 3693,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 21.06896551724138
+      },
+      "22": {
+        "word_count": 750,
+        "character_count": 4416,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 19.736842105263158
+      },
+      "23": {
+        "word_count": 854,
+        "character_count": 4545,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 18.170212765957448
+      },
+      "24": {
+        "word_count": 823,
+        "character_count": 4673,
+        "sentence_count": 55,
+        "avg_words_per_sentence": 14.963636363636363
+      },
+      "25": {
+        "word_count": 451,
+        "character_count": 2635,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 14.548387096774194
+      },
+      "26": {
+        "word_count": 479,
+        "character_count": 2645,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 17.107142857142858
+      },
+      "27": {
+        "word_count": 192,
+        "character_count": 1017,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 8.0
+      },
+      "28": {
+        "word_count": 593,
+        "character_count": 3181,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 14.463414634146341
+      },
+      "29": {
+        "word_count": 592,
+        "character_count": 3386,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 14.095238095238095
+      },
+      "30": {
+        "word_count": 663,
+        "character_count": 3759,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 14.106382978723405
+      },
+      "31": {
+        "word_count": 760,
+        "character_count": 4127,
+        "sentence_count": 57,
+        "avg_words_per_sentence": 13.333333333333334
+      },
+      "32": {
+        "word_count": 465,
+        "character_count": 2724,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 12.567567567567568
+      },
+      "33": {
+        "word_count": 340,
+        "character_count": 1845,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 14.166666666666666
+      },
+      "34": {
+        "word_count": 525,
+        "character_count": 2811,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 14.18918918918919
+      },
+      "35": {
+        "word_count": 716,
+        "character_count": 3954,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 14.03921568627451
+      },
+      "36": {
+        "word_count": 555,
+        "character_count": 3050,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 15.0
+      },
+      "37": {
+        "word_count": 217,
+        "character_count": 1145,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 10.85
+      },
+      "38": {
+        "word_count": 522,
+        "character_count": 2859,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 12.428571428571429
+      },
+      "39": {
+        "word_count": 460,
+        "character_count": 2348,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 12.105263157894736
+      },
+      "40": {
+        "word_count": 232,
+        "character_count": 1252,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 11.047619047619047
+      },
+      "41": {
+        "word_count": 179,
+        "character_count": 998,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 8.523809523809524
+      },
+      "42": {
+        "word_count": 203,
+        "character_count": 1117,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 10.15
+      },
+      "43": {
+        "word_count": 357,
+        "character_count": 1863,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 10.5
+      },
+      "44": {
+        "word_count": 406,
+        "character_count": 2230,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 9.666666666666666
+      },
+      "45": {
+        "word_count": 127,
+        "character_count": 725,
+        "sentence_count": 8,
+        "avg_words_per_sentence": 15.875
+      },
+      "46": {
+        "word_count": 818,
+        "character_count": 4888,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 16.693877551020407
+      },
+      "47": {
+        "word_count": 458,
+        "character_count": 2786,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 19.083333333333332
+      },
+      "48": {
+        "word_count": 472,
+        "character_count": 2600,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 18.153846153846153
+      },
+      "49": {
+        "word_count": 591,
+        "character_count": 3277,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 10.944444444444445
+      },
+      "50": {
+        "word_count": 712,
+        "character_count": 4043,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 15.822222222222223
+      },
+      "51": {
+        "word_count": 765,
+        "character_count": 4147,
+        "sentence_count": 65,
+        "avg_words_per_sentence": 11.76923076923077
+      },
+      "52": {
+        "word_count": 574,
+        "character_count": 3129,
+        "sentence_count": 56,
+        "avg_words_per_sentence": 10.25
+      },
+      "53": {
+        "word_count": 490,
+        "character_count": 2650,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 12.894736842105264
+      },
+      "54": {
+        "word_count": 334,
+        "character_count": 1899,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 11.133333333333333
+      },
+      "55": {
+        "word_count": 474,
+        "character_count": 2615,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 13.166666666666666
+      },
+      "56": {
+        "word_count": 309,
+        "character_count": 1667,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 9.96774193548387
+      },
+      "57": {
+        "word_count": 297,
+        "character_count": 1573,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 10.607142857142858
+      },
+      "58": {
+        "word_count": 356,
+        "character_count": 1984,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 12.714285714285714
+      },
+      "59": {
+        "word_count": 608,
+        "character_count": 3321,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 15.58974358974359
+      },
+      "60": {
+        "word_count": 739,
+        "character_count": 4101,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 14.78
+      },
+      "61": {
+        "word_count": 494,
+        "character_count": 2588,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 13.0
+      },
+      "62": {
+        "word_count": 200,
+        "character_count": 1111,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 9.523809523809524
+      },
+      "63": {
+        "word_count": 190,
+        "character_count": 1006,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 10.555555555555555
+      },
+      "64": {
+        "word_count": 243,
+        "character_count": 1326,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 11.571428571428571
+      },
+      "65": {
+        "word_count": 172,
+        "character_count": 934,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 8.19047619047619
+      },
+      "66": {
+        "word_count": 185,
+        "character_count": 1003,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 9.25
+      },
+      "67": {
+        "word_count": 322,
+        "character_count": 1767,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 9.757575757575758
+      },
+      "68": {
+        "word_count": 476,
+        "character_count": 2914,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 11.609756097560975
+      },
+      "69": {
+        "word_count": 382,
+        "character_count": 2027,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 12.32258064516129
+      },
+      "70": {
+        "word_count": 207,
+        "character_count": 1118,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 10.894736842105264
+      },
+      "71": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "72": {
+        "word_count": 538,
+        "character_count": 3073,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 22.416666666666668
+      },
+      "73": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "74": {
+        "word_count": 704,
+        "character_count": 4079,
+        "sentence_count": 56,
+        "avg_words_per_sentence": 12.571428571428571
+      },
+      "75": {
+        "word_count": 611,
+        "character_count": 3324,
+        "sentence_count": 55,
+        "avg_words_per_sentence": 11.10909090909091
+      },
+      "76": {
+        "word_count": 463,
+        "character_count": 2910,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 19.291666666666668
+      },
+      "77": {
+        "word_count": 224,
+        "character_count": 1422,
+        "sentence_count": 16,
+        "avg_words_per_sentence": 14.0
+      },
+      "78": {
+        "word_count": 326,
+        "character_count": 1904,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 15.523809523809524
+      },
+      "79": {
+        "word_count": 266,
+        "character_count": 1626,
+        "sentence_count": 17,
+        "avg_words_per_sentence": 15.647058823529411
+      },
+      "80": {
+        "word_count": 272,
+        "character_count": 1671,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 15.11111111111111
+      },
+      "81": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "82": {
+        "word_count": 529,
+        "character_count": 2784,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 17.06451612903226
+      },
+      "83": {
+        "word_count": 351,
+        "character_count": 1902,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 10.96875
+      },
+      "84": {
+        "word_count": 455,
+        "character_count": 2612,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 14.67741935483871
+      },
+      "85": {
+        "word_count": 601,
+        "character_count": 3320,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 9.852459016393443
+      },
+      "86": {
+        "word_count": 467,
+        "character_count": 2479,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 11.390243902439025
+      },
+      "87": {
+        "word_count": 682,
+        "character_count": 3863,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 12.62962962962963
+      },
+      "88": {
+        "word_count": 497,
+        "character_count": 2757,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 12.425
+      },
+      "89": {
+        "word_count": 734,
+        "character_count": 4118,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 14.115384615384615
+      },
+      "90": {
+        "word_count": 463,
+        "character_count": 2596,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 11.575
+      },
+      "91": {
+        "word_count": 349,
+        "character_count": 1879,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 11.633333333333333
+      },
+      "92": {
+        "word_count": 626,
+        "character_count": 3765,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 13.608695652173912
+      },
+      "93": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "94": {
+        "word_count": 608,
+        "character_count": 3390,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 10.482758620689655
+      },
+      "95": {
+        "word_count": 662,
+        "character_count": 3781,
+        "sentence_count": 64,
+        "avg_words_per_sentence": 10.34375
+      },
+      "96": {
+        "word_count": 330,
+        "character_count": 1816,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 8.91891891891892
+      },
+      "97": {
+        "word_count": 563,
+        "character_count": 3011,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 9.229508196721312
+      },
+      "98": {
+        "word_count": 180,
+        "character_count": 961,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 8.571428571428571
+      },
+      "99": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "100": {
+        "word_count": 907,
+        "character_count": 5277,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 25.914285714285715
+      },
+      "101": {
+        "word_count": 539,
+        "character_count": 3180,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 18.586206896551722
+      },
+      "102": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "103": {
+        "word_count": 410,
+        "character_count": 2307,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 21.57894736842105
+      },
+      "104": {
+        "word_count": 238,
+        "character_count": 1272,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 13.222222222222221
+      },
+      "105": {
+        "word_count": 520,
+        "character_count": 2721,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 17.333333333333332
+      },
+      "106": {
+        "word_count": 727,
+        "character_count": 3971,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 14.83673469387755
+      },
+      "107": {
+        "word_count": 826,
+        "character_count": 4505,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 19.666666666666668
+      },
+      "108": {
+        "word_count": 757,
+        "character_count": 3955,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 16.456521739130434
+      },
+      "109": {
+        "word_count": 866,
+        "character_count": 4890,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 20.13953488372093
+      },
+      "110": {
+        "word_count": 788,
+        "character_count": 4130,
+        "sentence_count": 57,
+        "avg_words_per_sentence": 13.824561403508772
+      },
+      "111": {
+        "word_count": 412,
+        "character_count": 2198,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 14.714285714285714
+      },
+      "112": {
+        "word_count": 175,
+        "character_count": 934,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 7.608695652173913
+      },
+      "113": {
+        "word_count": 221,
+        "character_count": 1158,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 7.129032258064516
+      },
+      "114": {
+        "word_count": 220,
+        "character_count": 1201,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 11.0
+      },
+      "115": {
+        "word_count": 248,
+        "character_count": 1364,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 8.551724137931034
+      },
+      "116": {
+        "word_count": 229,
+        "character_count": 1106,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 9.541666666666666
+      },
+      "117": {
+        "word_count": 661,
+        "character_count": 3614,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 15.372093023255815
+      },
+      "118": {
+        "word_count": 790,
+        "character_count": 4197,
+        "sentence_count": 59,
+        "avg_words_per_sentence": 13.389830508474576
+      },
+      "119": {
+        "word_count": 485,
+        "character_count": 2759,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 10.104166666666666
+      },
+      "120": {
+        "word_count": 706,
+        "character_count": 3980,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 16.80952380952381
+      },
+      "121": {
+        "word_count": 333,
+        "character_count": 1862,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 11.482758620689655
+      },
+      "122": {
+        "word_count": 927,
+        "character_count": 5197,
+        "sentence_count": 75,
+        "avg_words_per_sentence": 12.36
+      },
+      "123": {
+        "word_count": 821,
+        "character_count": 4534,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 16.42
+      },
+      "124": {
+        "word_count": 759,
+        "character_count": 4127,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 12.442622950819672
+      },
+      "125": {
+        "word_count": 791,
+        "character_count": 4294,
+        "sentence_count": 69,
+        "avg_words_per_sentence": 11.46376811594203
+      },
+      "126": {
+        "word_count": 445,
+        "character_count": 2327,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 12.36111111111111
+      },
+      "127": {
+        "word_count": 569,
+        "character_count": 2938,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 11.38
+      },
+      "128": {
+        "word_count": 426,
+        "character_count": 2209,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 9.26086956521739
+      },
+      "129": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "130": {
+        "word_count": 663,
+        "character_count": 4163,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 24.555555555555557
+      },
+      "131": {
+        "word_count": 665,
+        "character_count": 3814,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 10.901639344262295
+      },
+      "132": {
+        "word_count": 440,
+        "character_count": 2518,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 8.148148148148149
+      },
+      "133": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "134": {
+        "word_count": 464,
+        "character_count": 2522,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 10.545454545454545
+      },
+      "135": {
+        "word_count": 612,
+        "character_count": 3455,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 14.232558139534884
+      },
+      "136": {
+        "word_count": 783,
+        "character_count": 4674,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 13.5
+      },
+      "137": {
+        "word_count": 713,
+        "character_count": 4161,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 14.551020408163266
+      },
+      "138": {
+        "word_count": 665,
+        "character_count": 3701,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 12.314814814814815
+      },
+      "139": {
+        "word_count": 382,
+        "character_count": 2195,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 9.095238095238095
+      },
+      "140": {
+        "word_count": 345,
+        "character_count": 1972,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 10.454545454545455
+      },
+      "141": {
+        "word_count": 517,
+        "character_count": 3002,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 14.36111111111111
+      },
+      "142": {
+        "word_count": 954,
+        "character_count": 5411,
+        "sentence_count": 82,
+        "avg_words_per_sentence": 11.634146341463415
+      },
+      "143": {
+        "word_count": 621,
+        "character_count": 3539,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 12.42
+      },
+      "144": {
+        "word_count": 240,
+        "character_count": 1357,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 8.88888888888889
+      },
+      "145": {
+        "word_count": 178,
+        "character_count": 955,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 7.12
+      },
+      "146": {
+        "word_count": 581,
+        "character_count": 3309,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 11.857142857142858
+      },
+      "147": {
+        "word_count": 764,
+        "character_count": 4227,
+        "sentence_count": 63,
+        "avg_words_per_sentence": 12.126984126984127
+      },
+      "148": {
+        "word_count": 385,
+        "character_count": 2032,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 12.833333333333334
+      },
+      "149": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "150": {
+        "word_count": 803,
+        "character_count": 4791,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 21.7027027027027
+      },
+      "151": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "152": {
+        "word_count": 210,
+        "character_count": 1118,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 8.076923076923077
+      },
+      "153": {
+        "word_count": 252,
+        "character_count": 1327,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 7.875
+      },
+      "154": {
+        "word_count": 142,
+        "character_count": 702,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 6.761904761904762
+      },
+      "155": {
+        "word_count": 194,
+        "character_count": 1051,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 7.76
+      },
+      "156": {
+        "word_count": 207,
+        "character_count": 1115,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 9.0
+      },
+      "157": {
+        "word_count": 155,
+        "character_count": 820,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 8.157894736842104
+      },
+      "158": {
+        "word_count": 146,
+        "character_count": 797,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 6.9523809523809526
+      },
+      "159": {
+        "word_count": 230,
+        "character_count": 1221,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 7.419354838709677
+      },
+      "160": {
+        "word_count": 269,
+        "character_count": 1453,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 10.346153846153847
+      },
+      "161": {
+        "word_count": 284,
+        "character_count": 1484,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 7.1
+      },
+      "162": {
+        "word_count": 202,
+        "character_count": 1029,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 6.733333333333333
+      },
+      "163": {
+        "word_count": 305,
+        "character_count": 1510,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 8.970588235294118
+      },
+      "164": {
+        "word_count": 338,
+        "character_count": 1837,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 8.666666666666666
+      },
+      "165": {
+        "word_count": 393,
+        "character_count": 2088,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 7.415094339622642
+      },
+      "166": {
+        "word_count": 342,
+        "character_count": 1734,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 9.771428571428572
+      },
+      "167": {
+        "word_count": 179,
+        "character_count": 942,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 6.884615384615385
+      },
+      "168": {
+        "word_count": 169,
+        "character_count": 923,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 8.894736842105264
+      },
+      "169": {
+        "word_count": 238,
+        "character_count": 1238,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 9.153846153846153
+      },
+      "170": {
+        "word_count": 633,
+        "character_count": 3422,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 14.386363636363637
+      },
+      "171": {
+        "word_count": 759,
+        "character_count": 4207,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 15.8125
+      },
+      "172": {
+        "word_count": 581,
+        "character_count": 3123,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 10.962264150943396
+      },
+      "173": {
+        "word_count": 523,
+        "character_count": 2876,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 17.433333333333334
+      },
+      "174": {
+        "word_count": 636,
+        "character_count": 3431,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 12.72
+      },
+      "175": {
+        "word_count": 482,
+        "character_count": 2894,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 12.68421052631579
+      },
+      "176": {
+        "word_count": 148,
+        "character_count": 754,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 7.4
+      },
+      "177": {
+        "word_count": 238,
+        "character_count": 1180,
+        "sentence_count": 22,
+        "avg_words_per_sentence": 10.818181818181818
+      },
+      "178": {
+        "word_count": 125,
+        "character_count": 712,
+        "sentence_count": 11,
+        "avg_words_per_sentence": 11.363636363636363
+      },
+      "179": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "180": {
+        "word_count": 772,
+        "character_count": 4187,
+        "sentence_count": 74,
+        "avg_words_per_sentence": 10.432432432432432
+      },
+      "181": {
+        "word_count": 159,
+        "character_count": 890,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 8.833333333333334
+      },
+      "182": {
+        "word_count": 737,
+        "character_count": 4410,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 14.74
+      },
+      "183": {
+        "word_count": 202,
+        "character_count": 1097,
+        "sentence_count": 9,
+        "avg_words_per_sentence": 22.444444444444443
+      },
+      "184": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "185": {
+        "word_count": 386,
+        "character_count": 1950,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 13.310344827586206
+      },
+      "186": {
+        "word_count": 406,
+        "character_count": 2207,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 10.972972972972974
+      },
+      "187": {
+        "word_count": 806,
+        "character_count": 4451,
+        "sentence_count": 63,
+        "avg_words_per_sentence": 12.793650793650794
+      },
+      "188": {
+        "word_count": 821,
+        "character_count": 4481,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 16.755102040816325
+      },
+      "189": {
+        "word_count": 687,
+        "character_count": 3675,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 14.020408163265307
+      },
+      "190": {
+        "word_count": 328,
+        "character_count": 1642,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 9.371428571428572
+      },
+      "191": {
+        "word_count": 446,
+        "character_count": 2431,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 10.372093023255815
+      },
+      "192": {
+        "word_count": 332,
+        "character_count": 1777,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 10.06060606060606
+      },
+      "193": {
+        "word_count": 416,
+        "character_count": 2205,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 13.0
+      },
+      "194": {
+        "word_count": 375,
+        "character_count": 2036,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 9.868421052631579
+      },
+      "195": {
+        "word_count": 340,
+        "character_count": 1734,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 7.7272727272727275
+      },
+      "196": {
+        "word_count": 209,
+        "character_count": 1108,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 8.36
+      },
+      "197": {
+        "word_count": 260,
+        "character_count": 1403,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 7.647058823529412
+      },
+      "198": {
+        "word_count": 207,
+        "character_count": 1173,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 9.0
+      },
+      "199": {
+        "word_count": 642,
+        "character_count": 3565,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 13.375
+      },
+      "200": {
+        "word_count": 612,
+        "character_count": 3581,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 12.24
+      },
+      "201": {
+        "word_count": 453,
+        "character_count": 2628,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 14.15625
+      },
+      "202": {
+        "word_count": 465,
+        "character_count": 2528,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 11.625
+      },
+      "203": {
+        "word_count": 444,
+        "character_count": 2478,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 15.310344827586206
+      },
+      "204": {
+        "word_count": 539,
+        "character_count": 2914,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 10.365384615384615
+      },
+      "205": {
+        "word_count": 494,
+        "character_count": 2754,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 10.977777777777778
+      },
+      "206": {
+        "word_count": 289,
+        "character_count": 1600,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 8.257142857142858
+      },
+      "207": {
+        "word_count": 402,
+        "character_count": 2198,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 11.166666666666666
+      },
+      "208": {
+        "word_count": 416,
+        "character_count": 2367,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 11.243243243243244
+      },
+      "209": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "210": {
+        "word_count": 813,
+        "character_count": 5033,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 26.225806451612904
+      },
+      "211": {
+        "word_count": 296,
+        "character_count": 1857,
+        "sentence_count": 15,
+        "avg_words_per_sentence": 19.733333333333334
+      },
+      "212": {
+        "word_count": 483,
+        "character_count": 2491,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 12.710526315789474
+      },
+      "213": {
+        "word_count": 388,
+        "character_count": 1938,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 11.085714285714285
+      },
+      "214": {
+        "word_count": 892,
+        "character_count": 4789,
+        "sentence_count": 56,
+        "avg_words_per_sentence": 15.928571428571429
+      },
+      "215": {
+        "word_count": 811,
+        "character_count": 4714,
+        "sentence_count": 75,
+        "avg_words_per_sentence": 10.813333333333333
+      },
+      "216": {
+        "word_count": 582,
+        "character_count": 3223,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 11.192307692307692
+      },
+      "217": {
+        "word_count": 724,
+        "character_count": 3916,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 13.407407407407407
+      },
+      "218": {
+        "word_count": 670,
+        "character_count": 3770,
+        "sentence_count": 62,
+        "avg_words_per_sentence": 10.806451612903226
+      },
+      "219": {
+        "word_count": 803,
+        "character_count": 4482,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 16.729166666666668
+      },
+      "220": {
+        "word_count": 498,
+        "character_count": 2900,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 13.105263157894736
+      },
+      "221": {
+        "word_count": 751,
+        "character_count": 4271,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 17.46511627906977
+      },
+      "222": {
+        "word_count": 888,
+        "character_count": 5110,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 17.41176470588235
+      },
+      "223": {
+        "word_count": 861,
+        "character_count": 5266,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 30.75
+      },
+      "224": {
+        "word_count": 343,
+        "character_count": 2115,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 12.703703703703704
+      },
+      "225": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "226": {
+        "word_count": 258,
+        "character_count": 1328,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 12.285714285714286
+      },
+      "227": {
+        "word_count": 266,
+        "character_count": 1356,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 6.65
+      },
+      "228": {
+        "word_count": 426,
+        "character_count": 2098,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 10.65
+      },
+      "229": {
+        "word_count": 190,
+        "character_count": 947,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 9.047619047619047
+      },
+      "230": {
+        "word_count": 115,
+        "character_count": 609,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 6.388888888888889
+      },
+      "231": {
+        "word_count": 840,
+        "character_count": 4368,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 14.482758620689655
+      },
+      "232": {
+        "word_count": 873,
+        "character_count": 4587,
+        "sentence_count": 83,
+        "avg_words_per_sentence": 10.518072289156626
+      },
+      "233": {
+        "word_count": 336,
+        "character_count": 1772,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 12.0
+      },
+      "234": {
+        "word_count": 221,
+        "character_count": 1097,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 7.129032258064516
+      },
+      "235": {
+        "word_count": 378,
+        "character_count": 1911,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 12.6
+      },
+      "236": {
+        "word_count": 230,
+        "character_count": 1127,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 9.583333333333334
+      },
+      "237": {
+        "word_count": 352,
+        "character_count": 1870,
+        "sentence_count": 73,
+        "avg_words_per_sentence": 4.821917808219178
+      },
+      "238": {
+        "word_count": 281,
+        "character_count": 1471,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 10.407407407407407
+      },
+      "239": {
+        "word_count": 342,
+        "character_count": 1777,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 10.058823529411764
+      },
+      "240": {
+        "word_count": 472,
+        "character_count": 2567,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 10.976744186046512
+      },
+      "241": {
+        "word_count": 553,
+        "character_count": 3168,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 12.86046511627907
+      },
+      "242": {
+        "word_count": 686,
+        "character_count": 3817,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 13.72
+      },
+      "243": {
+        "word_count": 307,
+        "character_count": 1654,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 7.871794871794871
+      },
+      "244": {
+        "word_count": 608,
+        "character_count": 3291,
+        "sentence_count": 62,
+        "avg_words_per_sentence": 9.806451612903226
+      },
+      "245": {
+        "word_count": 481,
+        "character_count": 2639,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 9.25
+      },
+      "246": {
+        "word_count": 478,
+        "character_count": 2391,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 10.622222222222222
+      },
+      "247": {
+        "word_count": 523,
+        "character_count": 2723,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 11.127659574468085
+      },
+      "248": {
+        "word_count": 376,
+        "character_count": 1916,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 8.355555555555556
+      },
+      "249": {
+        "word_count": 268,
+        "character_count": 1383,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 9.241379310344827
+      },
+      "250": {
+        "word_count": 191,
+        "character_count": 1008,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 7.64
+      },
+      "251": {
+        "word_count": 409,
+        "character_count": 2243,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 9.295454545454545
+      },
+      "252": {
+        "word_count": 438,
+        "character_count": 2442,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 10.682926829268293
+      },
+      "253": {
+        "word_count": 529,
+        "character_count": 3046,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 12.595238095238095
+      },
+      "254": {
+        "word_count": 463,
+        "character_count": 2622,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 11.871794871794872
+      },
+      "255": {
+        "word_count": 499,
+        "character_count": 2889,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 13.131578947368421
+      },
+      "256": {
+        "word_count": 510,
+        "character_count": 2834,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 11.333333333333334
+      },
+      "257": {
+        "word_count": 539,
+        "character_count": 2847,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 11.46808510638298
+      },
+      "258": {
+        "word_count": 469,
+        "character_count": 2392,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 8.685185185185185
+      },
+      "259": {
+        "word_count": 516,
+        "character_count": 2621,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 13.578947368421053
+      },
+      "260": {
+        "word_count": 306,
+        "character_count": 1557,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 9.870967741935484
+      },
+      "261": {
+        "word_count": 177,
+        "character_count": 899,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 6.555555555555555
+      },
+      "262": {
+        "word_count": 203,
+        "character_count": 1158,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 8.826086956521738
+      },
+      "263": {
+        "word_count": 277,
+        "character_count": 1525,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 9.233333333333333
+      },
+      "264": {
+        "word_count": 251,
+        "character_count": 1357,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 9.296296296296296
+      },
+      "265": {
+        "word_count": 217,
+        "character_count": 1169,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 6.78125
+      },
+      "266": {
+        "word_count": 423,
+        "character_count": 2232,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 12.818181818181818
+      },
+      "267": {
+        "word_count": 284,
+        "character_count": 1425,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 9.466666666666667
+      },
+      "268": {
+        "word_count": 337,
+        "character_count": 1747,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 10.212121212121213
+      },
+      "269": {
+        "word_count": 377,
+        "character_count": 1770,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 12.161290322580646
+      },
+      "270": {
+        "word_count": 459,
+        "character_count": 2285,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 9.978260869565217
+      },
+      "271": {
+        "word_count": 325,
+        "character_count": 1691,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 9.848484848484848
+      },
+      "272": {
+        "word_count": 415,
+        "character_count": 2219,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 8.829787234042554
+      },
+      "273": {
+        "word_count": 456,
+        "character_count": 2612,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 13.818181818181818
+      },
+      "274": {
+        "word_count": 313,
+        "character_count": 1694,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 8.694444444444445
+      },
+      "275": {
+        "word_count": 576,
+        "character_count": 2938,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 12.8
+      },
+      "276": {
+        "word_count": 80,
+        "character_count": 425,
+        "sentence_count": 8,
+        "avg_words_per_sentence": 10.0
+      },
+      "277": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "278": {
+        "word_count": 870,
+        "character_count": 5227,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 24.166666666666668
+      },
+      "279": {
+        "word_count": 829,
+        "character_count": 4959,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 16.58
+      },
+      "280": {
+        "word_count": 802,
+        "character_count": 4622,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 20.564102564102566
+      },
+      "281": {
+        "word_count": 289,
+        "character_count": 1683,
+        "sentence_count": 10,
+        "avg_words_per_sentence": 28.9
+      },
+      "282": {
+        "word_count": 188,
+        "character_count": 1005,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 7.230769230769231
+      },
+      "283": {
+        "word_count": 149,
+        "character_count": 762,
+        "sentence_count": 22,
+        "avg_words_per_sentence": 6.7727272727272725
+      },
+      "284": {
+        "word_count": 445,
+        "character_count": 2244,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 11.125
+      },
+      "285": {
+        "word_count": 301,
+        "character_count": 1603,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 10.75
+      },
+      "286": {
+        "word_count": 402,
+        "character_count": 1989,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 11.166666666666666
+      },
+      "287": {
+        "word_count": 723,
+        "character_count": 3513,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 15.717391304347826
+      },
+      "288": {
+        "word_count": 817,
+        "character_count": 4114,
+        "sentence_count": 82,
+        "avg_words_per_sentence": 9.963414634146341
+      },
+      "289": {
+        "word_count": 372,
+        "character_count": 1858,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 10.054054054054054
+      },
+      "290": {
+        "word_count": 328,
+        "character_count": 1704,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 11.310344827586206
+      },
+      "291": {
+        "word_count": 376,
+        "character_count": 1972,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 12.533333333333333
+      },
+      "292": {
+        "word_count": 315,
+        "character_count": 1710,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 9.264705882352942
+      },
+      "293": {
+        "word_count": 151,
+        "character_count": 871,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 6.291666666666667
+      },
+      "294": {
+        "word_count": 281,
+        "character_count": 1421,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 11.24
+      },
+      "295": {
+        "word_count": 144,
+        "character_count": 786,
+        "sentence_count": 14,
+        "avg_words_per_sentence": 10.285714285714286
+      },
+      "296": {
+        "word_count": 321,
+        "character_count": 1681,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 9.441176470588236
+      },
+      "297": {
+        "word_count": 263,
+        "character_count": 1391,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 10.958333333333334
+      },
+      "298": {
+        "word_count": 586,
+        "character_count": 3232,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 13.952380952380953
+      },
+      "299": {
+        "word_count": 484,
+        "character_count": 2691,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 12.1
+      },
+      "300": {
+        "word_count": 379,
+        "character_count": 2121,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 9.023809523809524
+      },
+      "301": {
+        "word_count": 157,
+        "character_count": 924,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 7.85
+      },
+      "302": {
+        "word_count": 212,
+        "character_count": 1189,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 8.833333333333334
+      },
+      "303": {
+        "word_count": 333,
+        "character_count": 1743,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 11.482758620689655
+      },
+      "304": {
+        "word_count": 233,
+        "character_count": 1306,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 8.62962962962963
+      },
+      "305": {
+        "word_count": 479,
+        "character_count": 2430,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 10.191489361702128
+      },
+      "306": {
+        "word_count": 435,
+        "character_count": 2369,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 11.447368421052632
+      },
+      "307": {
+        "word_count": 822,
+        "character_count": 4511,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 14.172413793103448
+      },
+      "308": {
+        "word_count": 982,
+        "character_count": 5632,
+        "sentence_count": 59,
+        "avg_words_per_sentence": 16.64406779661017
+      },
+      "309": {
+        "word_count": 800,
+        "character_count": 4484,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 22.22222222222222
+      },
+      "310": {
+        "word_count": 679,
+        "character_count": 4010,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 13.313725490196079
+      },
+      "311": {
+        "word_count": 412,
+        "character_count": 2379,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 11.135135135135135
+      },
+      "312": {
+        "word_count": 411,
+        "character_count": 2178,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 12.84375
+      },
+      "313": {
+        "word_count": 493,
+        "character_count": 2725,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 11.738095238095237
+      },
+      "314": {
+        "word_count": 305,
+        "character_count": 1694,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 11.73076923076923
+      },
+      "315": {
+        "word_count": 469,
+        "character_count": 2449,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 13.794117647058824
+      },
+      "316": {
+        "word_count": 341,
+        "character_count": 1784,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 10.333333333333334
+      },
+      "317": {
+        "word_count": 208,
+        "character_count": 1044,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 8.32
+      },
+      "318": {
+        "word_count": 399,
+        "character_count": 2072,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 9.068181818181818
+      },
+      "319": {
+        "word_count": 417,
+        "character_count": 2226,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 10.692307692307692
+      },
+      "320": {
+        "word_count": 282,
+        "character_count": 1432,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 8.545454545454545
+      },
+      "321": {
+        "word_count": 280,
+        "character_count": 1547,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 10.37037037037037
+      },
+      "322": {
+        "word_count": 875,
+        "character_count": 5353,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 25.735294117647058
+      },
+      "323": {
+        "word_count": 322,
+        "character_count": 1895,
+        "sentence_count": 12,
+        "avg_words_per_sentence": 26.833333333333332
+      },
+      "324": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "325": {
+        "word_count": 385,
+        "character_count": 2032,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 13.275862068965518
+      },
+      "326": {
+        "word_count": 813,
+        "character_count": 4417,
+        "sentence_count": 55,
+        "avg_words_per_sentence": 14.781818181818181
+      },
+      "327": {
+        "word_count": 604,
+        "character_count": 3205,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 16.324324324324323
+      },
+      "328": {
+        "word_count": 472,
+        "character_count": 2534,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 13.882352941176471
+      },
+      "329": {
+        "word_count": 497,
+        "character_count": 2751,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 11.295454545454545
+      },
+      "330": {
+        "word_count": 554,
+        "character_count": 2903,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 15.82857142857143
+      },
+      "331": {
+        "word_count": 574,
+        "character_count": 2805,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 16.4
+      },
+      "332": {
+        "word_count": 422,
+        "character_count": 2166,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 16.88
+      },
+      "333": {
+        "word_count": 726,
+        "character_count": 3797,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 15.446808510638299
+      },
+      "334": {
+        "word_count": 658,
+        "character_count": 3724,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 12.415094339622641
+      },
+      "335": {
+        "word_count": 510,
+        "character_count": 2829,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 12.75
+      },
+      "336": {
+        "word_count": 735,
+        "character_count": 4041,
+        "sentence_count": 65,
+        "avg_words_per_sentence": 11.307692307692308
+      },
+      "337": {
+        "word_count": 321,
+        "character_count": 1686,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 13.375
+      },
+      "338": {
+        "word_count": 270,
+        "character_count": 1378,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 8.709677419354838
+      },
+      "339": {
+        "word_count": 196,
+        "character_count": 1007,
+        "sentence_count": 17,
+        "avg_words_per_sentence": 11.529411764705882
+      },
+      "340": {
+        "word_count": 472,
+        "character_count": 2370,
+        "sentence_count": 57,
+        "avg_words_per_sentence": 8.280701754385966
+      },
+      "341": {
+        "word_count": 217,
+        "character_count": 1062,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 7.0
+      },
+      "342": {
+        "word_count": 195,
+        "character_count": 1081,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 8.478260869565217
+      },
+      "343": {
+        "word_count": 179,
+        "character_count": 947,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 7.782608695652174
+      },
+      "344": {
+        "word_count": 161,
+        "character_count": 895,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 8.05
+      },
+      "345": {
+        "word_count": 209,
+        "character_count": 1072,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 8.708333333333334
+      },
+      "346": {
+        "word_count": 500,
+        "character_count": 2750,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 15.625
+      },
+      "347": {
+        "word_count": 699,
+        "character_count": 3737,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 13.442307692307692
+      },
+      "348": {
+        "word_count": 706,
+        "character_count": 3790,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 16.41860465116279
+      },
+      "349": {
+        "word_count": 718,
+        "character_count": 3858,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 14.653061224489797
+      },
+      "350": {
+        "word_count": 327,
+        "character_count": 1666,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 10.9
+      },
+      "351": {
+        "word_count": 373,
+        "character_count": 1937,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 11.303030303030303
+      },
+      "352": {
+        "word_count": 399,
+        "character_count": 2177,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 10.23076923076923
+      },
+      "353": {
+        "word_count": 316,
+        "character_count": 1671,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 10.533333333333333
+      },
+      "354": {
+        "word_count": 533,
+        "character_count": 2638,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 13.666666666666666
+      },
+      "355": {
+        "word_count": 279,
+        "character_count": 1500,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 10.73076923076923
+      },
+      "356": {
+        "word_count": 406,
+        "character_count": 2090,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 11.941176470588236
+      },
+      "357": {
+        "word_count": 578,
+        "character_count": 3255,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 14.45
+      },
+      "358": {
+        "word_count": 346,
+        "character_count": 2001,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 12.814814814814815
+      },
+      "359": {
+        "word_count": 497,
+        "character_count": 2505,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 11.044444444444444
+      },
+      "360": {
+        "word_count": 314,
+        "character_count": 1742,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 10.466666666666667
+      },
+      "361": {
+        "word_count": 307,
+        "character_count": 1641,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 9.59375
+      },
+      "362": {
+        "word_count": 382,
+        "character_count": 2017,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 10.61111111111111
+      },
+      "363": {
+        "word_count": 282,
+        "character_count": 1422,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 9.724137931034482
+      },
+      "364": {
+        "word_count": 725,
+        "character_count": 3729,
+        "sentence_count": 54,
+        "avg_words_per_sentence": 13.425925925925926
+      },
+      "365": {
+        "word_count": 254,
+        "character_count": 1292,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 7.9375
+      },
+      "366": {
+        "word_count": 283,
+        "character_count": 1630,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 6.288888888888889
+      },
+      "367": {
+        "word_count": 146,
+        "character_count": 843,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 5.407407407407407
+      },
+      "368": {
+        "word_count": 342,
+        "character_count": 1690,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 7.434782608695652
+      },
+      "369": {
+        "word_count": 221,
+        "character_count": 1271,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 6.90625
+      },
+      "370": {
+        "word_count": 385,
+        "character_count": 2032,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 8.020833333333334
+      },
+      "371": {
+        "word_count": 243,
+        "character_count": 1325,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 9.0
+      },
+      "372": {
+        "word_count": 682,
+        "character_count": 3643,
+        "sentence_count": 50,
+        "avg_words_per_sentence": 13.64
+      },
+      "373": {
+        "word_count": 601,
+        "character_count": 3369,
+        "sentence_count": 55,
+        "avg_words_per_sentence": 10.927272727272728
+      },
+      "374": {
+        "word_count": 957,
+        "character_count": 5247,
+        "sentence_count": 76,
+        "avg_words_per_sentence": 12.592105263157896
+      },
+      "375": {
+        "word_count": 635,
+        "character_count": 3456,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 12.450980392156863
+      },
+      "376": {
+        "word_count": 935,
+        "character_count": 5352,
+        "sentence_count": 84,
+        "avg_words_per_sentence": 11.130952380952381
+      },
+      "377": {
+        "word_count": 318,
+        "character_count": 1731,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 12.72
+      },
+      "378": {
+        "word_count": 279,
+        "character_count": 1399,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 9.964285714285714
+      },
+      "379": {
+        "word_count": 501,
+        "character_count": 2572,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 10.224489795918368
+      },
+      "380": {
+        "word_count": 262,
+        "character_count": 1504,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 10.076923076923077
+      },
+      "381": {
+        "word_count": 277,
+        "character_count": 1475,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 9.551724137931034
+      },
+      "382": {
+        "word_count": 242,
+        "character_count": 1288,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 7.5625
+      },
+      "383": {
+        "word_count": 408,
+        "character_count": 2089,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 12.363636363636363
+      },
+      "384": {
+        "word_count": 335,
+        "character_count": 1806,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 11.551724137931034
+      },
+      "385": {
+        "word_count": 47,
+        "character_count": 286,
+        "sentence_count": 5,
+        "avg_words_per_sentence": 9.4
+      },
+      "386": {
+        "word_count": 833,
+        "character_count": 4892,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 21.92105263157895
+      },
+      "387": {
+        "word_count": 920,
+        "character_count": 5544,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 28.75
+      },
+      "388": {
+        "word_count": 167,
+        "character_count": 988,
+        "sentence_count": 16,
+        "avg_words_per_sentence": 10.4375
+      },
+      "389": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "390": {
+        "word_count": 389,
+        "character_count": 2124,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 14.961538461538462
+      },
+      "391": {
+        "word_count": 514,
+        "character_count": 2597,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 17.724137931034484
+      },
+      "392": {
+        "word_count": 810,
+        "character_count": 4402,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 19.75609756097561
+      },
+      "393": {
+        "word_count": 568,
+        "character_count": 3243,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 15.777777777777779
+      },
+      "394": {
+        "word_count": 679,
+        "character_count": 3794,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 21.21875
+      },
+      "395": {
+        "word_count": 763,
+        "character_count": 4245,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 19.564102564102566
+      },
+      "396": {
+        "word_count": 660,
+        "character_count": 3684,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 17.83783783783784
+      },
+      "397": {
+        "word_count": 500,
+        "character_count": 2506,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 14.285714285714286
+      },
+      "398": {
+        "word_count": 256,
+        "character_count": 1294,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 9.846153846153847
+      },
+      "399": {
+        "word_count": 163,
+        "character_count": 922,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 8.578947368421053
+      },
+      "400": {
+        "word_count": 259,
+        "character_count": 1355,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 9.961538461538462
+      },
+      "401": {
+        "word_count": 247,
+        "character_count": 1376,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 10.291666666666666
+      },
+      "402": {
+        "word_count": 214,
+        "character_count": 1155,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 11.88888888888889
+      },
+      "403": {
+        "word_count": 511,
+        "character_count": 2805,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 13.102564102564102
+      },
+      "404": {
+        "word_count": 568,
+        "character_count": 3131,
+        "sentence_count": 59,
+        "avg_words_per_sentence": 9.627118644067796
+      },
+      "405": {
+        "word_count": 152,
+        "character_count": 905,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 6.333333333333333
+      },
+      "406": {
+        "word_count": 279,
+        "character_count": 1481,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 9.964285714285714
+      },
+      "407": {
+        "word_count": 298,
+        "character_count": 1609,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 9.612903225806452
+      },
+      "408": {
+        "word_count": 217,
+        "character_count": 1189,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 8.037037037037036
+      },
+      "409": {
+        "word_count": 112,
+        "character_count": 615,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 4.666666666666667
+      },
+      "410": {
+        "word_count": 145,
+        "character_count": 761,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 5.0
+      },
+      "411": {
+        "word_count": 271,
+        "character_count": 1480,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 8.212121212121213
+      },
+      "412": {
+        "word_count": 590,
+        "character_count": 3428,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 13.409090909090908
+      },
+      "413": {
+        "word_count": 852,
+        "character_count": 4739,
+        "sentence_count": 71,
+        "avg_words_per_sentence": 12.0
+      },
+      "414": {
+        "word_count": 967,
+        "character_count": 5368,
+        "sentence_count": 71,
+        "avg_words_per_sentence": 13.619718309859154
+      },
+      "415": {
+        "word_count": 220,
+        "character_count": 1116,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 9.166666666666666
+      },
+      "416": {
+        "word_count": 130,
+        "character_count": 733,
+        "sentence_count": 16,
+        "avg_words_per_sentence": 8.125
+      },
+      "417": {
+        "word_count": 232,
+        "character_count": 1253,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 7.483870967741935
+      },
+      "418": {
+        "word_count": 145,
+        "character_count": 816,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 6.304347826086956
+      },
+      "419": {
+        "word_count": 296,
+        "character_count": 1583,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 9.25
+      },
+      "420": {
+        "word_count": 311,
+        "character_count": 1707,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 11.961538461538462
+      },
+      "421": {
+        "word_count": 197,
+        "character_count": 1101,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 6.793103448275862
+      },
+      "422": {
+        "word_count": 417,
+        "character_count": 2220,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 10.692307692307692
+      },
+      "423": {
+        "word_count": 296,
+        "character_count": 1593,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 10.206896551724139
+      },
+      "424": {
+        "word_count": 686,
+        "character_count": 3957,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 17.15
+      },
+      "425": {
+        "word_count": 641,
+        "character_count": 3517,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 13.638297872340425
+      },
+      "426": {
+        "word_count": 622,
+        "character_count": 3447,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 15.170731707317072
+      },
+      "427": {
+        "word_count": 614,
+        "character_count": 3376,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 11.584905660377359
+      },
+      "428": {
+        "word_count": 557,
+        "character_count": 3059,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 10.711538461538462
+      },
+      "429": {
+        "word_count": 284,
+        "character_count": 1521,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 9.793103448275861
+      },
+      "430": {
+        "word_count": 271,
+        "character_count": 1416,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 7.324324324324325
+      },
+      "431": {
+        "word_count": 444,
+        "character_count": 2321,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 17.076923076923077
+      },
+      "432": {
+        "word_count": 507,
+        "character_count": 2736,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 15.84375
+      },
+      "433": {
+        "word_count": 660,
+        "character_count": 3662,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 15.0
+      },
+      "434": {
+        "word_count": 494,
+        "character_count": 2636,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 12.35
+      },
+      "435": {
+        "word_count": 780,
+        "character_count": 3979,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 18.13953488372093
+      },
+      "436": {
+        "word_count": 550,
+        "character_count": 3033,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 15.277777777777779
+      },
+      "437": {
+        "word_count": 621,
+        "character_count": 3181,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 16.342105263157894
+      },
+      "438": {
+        "word_count": 475,
+        "character_count": 2506,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 11.585365853658537
+      },
+      "439": {
+        "word_count": 462,
+        "character_count": 2493,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 9.625
+      },
+      "440": {
+        "word_count": 472,
+        "character_count": 2509,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 12.756756756756756
+      },
+      "441": {
+        "word_count": 187,
+        "character_count": 1100,
+        "sentence_count": 23,
+        "avg_words_per_sentence": 8.130434782608695
+      },
+      "442": {
+        "word_count": 133,
+        "character_count": 774,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 5.541666666666667
+      },
+      "443": {
+        "word_count": 253,
+        "character_count": 1438,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 10.541666666666666
+      },
+      "444": {
+        "word_count": 154,
+        "character_count": 909,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 6.16
+      },
+      "445": {
+        "word_count": 272,
+        "character_count": 1534,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 8.774193548387096
+      },
+      "446": {
+        "word_count": 177,
+        "character_count": 911,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 7.375
+      },
+      "447": {
+        "word_count": 187,
+        "character_count": 1006,
+        "sentence_count": 21,
+        "avg_words_per_sentence": 8.904761904761905
+      },
+      "448": {
+        "word_count": 176,
+        "character_count": 945,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 7.333333333333333
+      },
+      "449": {
+        "word_count": 230,
+        "character_count": 1179,
+        "sentence_count": 22,
+        "avg_words_per_sentence": 10.454545454545455
+      },
+      "450": {
+        "word_count": 371,
+        "character_count": 2045,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 11.59375
+      },
+      "451": {
+        "word_count": 221,
+        "character_count": 1169,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 7.366666666666666
+      },
+      "452": {
+        "word_count": 231,
+        "character_count": 1240,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 8.884615384615385
+      },
+      "453": {
+        "word_count": 349,
+        "character_count": 1908,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 12.925925925925926
+      },
+      "454": {
+        "word_count": 241,
+        "character_count": 1283,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 8.033333333333333
+      },
+      "455": {
+        "word_count": 245,
+        "character_count": 1302,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 8.75
+      },
+      "456": {
+        "word_count": 282,
+        "character_count": 1561,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 7.833333333333333
+      },
+      "457": {
+        "word_count": 341,
+        "character_count": 1848,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 11.366666666666667
+      },
+      "458": {
+        "word_count": 170,
+        "character_count": 962,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 5.666666666666667
+      },
+      "459": {
+        "word_count": 308,
+        "character_count": 1776,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 6.844444444444444
+      },
+      "460": {
+        "word_count": 593,
+        "character_count": 3156,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 12.617021276595745
+      },
+      "461": {
+        "word_count": 220,
+        "character_count": 1152,
+        "sentence_count": 19,
+        "avg_words_per_sentence": 11.578947368421053
+      },
+      "462": {
+        "word_count": 772,
+        "character_count": 4606,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 20.864864864864863
+      },
+      "463": {
+        "word_count": 419,
+        "character_count": 2544,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 15.518518518518519
+      },
+      "464": {
+        "word_count": 406,
+        "character_count": 2053,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 10.972972972972974
+      },
+      "465": {
+        "word_count": 616,
+        "character_count": 3066,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 12.571428571428571
+      },
+      "466": {
+        "word_count": 541,
+        "character_count": 2793,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 15.457142857142857
+      },
+      "467": {
+        "word_count": 473,
+        "character_count": 2369,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 9.854166666666666
+      },
+      "468": {
+        "word_count": 377,
+        "character_count": 1954,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 10.771428571428572
+      },
+      "469": {
+        "word_count": 362,
+        "character_count": 1905,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 13.923076923076923
+      },
+      "470": {
+        "word_count": 381,
+        "character_count": 1868,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 11.545454545454545
+      },
+      "471": {
+        "word_count": 264,
+        "character_count": 1390,
+        "sentence_count": 22,
+        "avg_words_per_sentence": 12.0
+      },
+      "472": {
+        "word_count": 299,
+        "character_count": 1594,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 9.34375
+      },
+      "473": {
+        "word_count": 173,
+        "character_count": 953,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 8.65
+      },
+      "474": {
+        "word_count": 473,
+        "character_count": 2574,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 11.261904761904763
+      },
+      "475": {
+        "word_count": 410,
+        "character_count": 2203,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 15.185185185185185
+      },
+      "476": {
+        "word_count": 478,
+        "character_count": 2326,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 14.484848484848484
+      },
+      "477": {
+        "word_count": 327,
+        "character_count": 1730,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 13.625
+      },
+      "478": {
+        "word_count": 479,
+        "character_count": 2431,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 14.088235294117647
+      },
+      "479": {
+        "word_count": 342,
+        "character_count": 1788,
+        "sentence_count": 28,
+        "avg_words_per_sentence": 12.214285714285714
+      },
+      "480": {
+        "word_count": 249,
+        "character_count": 1334,
+        "sentence_count": 24,
+        "avg_words_per_sentence": 10.375
+      },
+      "481": {
+        "word_count": 182,
+        "character_count": 1013,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 6.7407407407407405
+      },
+      "482": {
+        "word_count": 493,
+        "character_count": 2533,
+        "sentence_count": 20,
+        "avg_words_per_sentence": 24.65
+      },
+      "483": {
+        "word_count": 609,
+        "character_count": 3160,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 12.428571428571429
+      },
+      "484": {
+        "word_count": 548,
+        "character_count": 2866,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 12.177777777777777
+      },
+      "485": {
+        "word_count": 411,
+        "character_count": 2148,
+        "sentence_count": 32,
+        "avg_words_per_sentence": 12.84375
+      },
+      "486": {
+        "word_count": 781,
+        "character_count": 4329,
+        "sentence_count": 60,
+        "avg_words_per_sentence": 13.016666666666667
+      },
+      "487": {
+        "word_count": 957,
+        "character_count": 5245,
+        "sentence_count": 76,
+        "avg_words_per_sentence": 12.592105263157896
+      },
+      "488": {
+        "word_count": 442,
+        "character_count": 2708,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 10.78048780487805
+      },
+      "489": {
+        "word_count": 783,
+        "character_count": 4280,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 13.5
+      },
+      "490": {
+        "word_count": 712,
+        "character_count": 4056,
+        "sentence_count": 56,
+        "avg_words_per_sentence": 12.714285714285714
+      },
+      "491": {
+        "word_count": 716,
+        "character_count": 4009,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 14.03921568627451
+      },
+      "492": {
+        "word_count": 238,
+        "character_count": 1322,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 9.153846153846153
+      },
+      "493": {
+        "word_count": 334,
+        "character_count": 1838,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 12.846153846153847
+      },
+      "494": {
+        "word_count": 623,
+        "character_count": 3513,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 14.833333333333334
+      },
+      "495": {
+        "word_count": 483,
+        "character_count": 2676,
+        "sentence_count": 39,
+        "avg_words_per_sentence": 12.384615384615385
+      },
+      "496": {
+        "word_count": 337,
+        "character_count": 1787,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 9.911764705882353
+      },
+      "497": {
+        "word_count": 585,
+        "character_count": 3089,
+        "sentence_count": 56,
+        "avg_words_per_sentence": 10.446428571428571
+      },
+      "498": {
+        "word_count": 705,
+        "character_count": 3762,
+        "sentence_count": 63,
+        "avg_words_per_sentence": 11.19047619047619
+      },
+      "499": {
+        "word_count": 655,
+        "character_count": 3677,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 13.936170212765957
+      },
+      "500": {
+        "word_count": 588,
+        "character_count": 3365,
+        "sentence_count": 46,
+        "avg_words_per_sentence": 12.782608695652174
+      },
+      "501": {
+        "word_count": 289,
+        "character_count": 1560,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 8.757575757575758
+      },
+      "502": {
+        "word_count": 380,
+        "character_count": 2114,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 9.268292682926829
+      },
+      "503": {
+        "word_count": 282,
+        "character_count": 1580,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 8.294117647058824
+      },
+      "504": {
+        "word_count": 252,
+        "character_count": 1384,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 7.411764705882353
+      },
+      "505": {
+        "word_count": 273,
+        "character_count": 1427,
+        "sentence_count": 33,
+        "avg_words_per_sentence": 8.272727272727273
+      },
+      "506": {
+        "word_count": 613,
+        "character_count": 3395,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 14.951219512195122
+      },
+      "507": {
+        "word_count": 462,
+        "character_count": 2664,
+        "sentence_count": 38,
+        "avg_words_per_sentence": 12.157894736842104
+      },
+      "508": {
+        "word_count": 203,
+        "character_count": 1091,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 7.518518518518518
+      },
+      "509": {
+        "word_count": 219,
+        "character_count": 1167,
+        "sentence_count": 25,
+        "avg_words_per_sentence": 8.76
+      },
+      "510": {
+        "word_count": 179,
+        "character_count": 939,
+        "sentence_count": 26,
+        "avg_words_per_sentence": 6.884615384615385
+      },
+      "511": {
+        "word_count": 287,
+        "character_count": 1571,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 9.258064516129032
+      },
+      "512": {
+        "word_count": 456,
+        "character_count": 2473,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 11.4
+      },
+      "513": {
+        "word_count": 515,
+        "character_count": 3048,
+        "sentence_count": 41,
+        "avg_words_per_sentence": 12.560975609756097
+      },
+      "514": {
+        "word_count": 1115,
+        "character_count": 6103,
+        "sentence_count": 77,
+        "avg_words_per_sentence": 14.480519480519481
+      },
+      "515": {
+        "word_count": 832,
+        "character_count": 4774,
+        "sentence_count": 63,
+        "avg_words_per_sentence": 13.206349206349206
+      },
+      "516": {
+        "word_count": 849,
+        "character_count": 4924,
+        "sentence_count": 65,
+        "avg_words_per_sentence": 13.061538461538461
+      },
+      "517": {
+        "word_count": 732,
+        "character_count": 4139,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 16.636363636363637
+      },
+      "518": {
+        "word_count": 736,
+        "character_count": 4097,
+        "sentence_count": 51,
+        "avg_words_per_sentence": 14.431372549019608
+      },
+      "519": {
+        "word_count": 476,
+        "character_count": 2575,
+        "sentence_count": 43,
+        "avg_words_per_sentence": 11.069767441860465
+      },
+      "520": {
+        "word_count": 650,
+        "character_count": 3576,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 10.655737704918034
+      },
+      "521": {
+        "word_count": 554,
+        "character_count": 3144,
+        "sentence_count": 47,
+        "avg_words_per_sentence": 11.787234042553191
+      },
+      "522": {
+        "word_count": 714,
+        "character_count": 3797,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 14.571428571428571
+      },
+      "523": {
+        "word_count": 610,
+        "character_count": 3199,
+        "sentence_count": 53,
+        "avg_words_per_sentence": 11.50943396226415
+      },
+      "524": {
+        "word_count": 568,
+        "character_count": 2914,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 11.833333333333334
+      },
+      "525": {
+        "word_count": 712,
+        "character_count": 4055,
+        "sentence_count": 48,
+        "avg_words_per_sentence": 14.833333333333334
+      },
+      "526": {
+        "word_count": 733,
+        "character_count": 4218,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 16.288888888888888
+      },
+      "527": {
+        "word_count": 534,
+        "character_count": 2954,
+        "sentence_count": 49,
+        "avg_words_per_sentence": 10.89795918367347
+      },
+      "528": {
+        "word_count": 565,
+        "character_count": 3027,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 10.865384615384615
+      },
+      "529": {
+        "word_count": 253,
+        "character_count": 1384,
+        "sentence_count": 29,
+        "avg_words_per_sentence": 8.724137931034482
+      },
+      "530": {
+        "word_count": 335,
+        "character_count": 1771,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 10.806451612903226
+      },
+      "531": {
+        "word_count": 337,
+        "character_count": 1734,
+        "sentence_count": 37,
+        "avg_words_per_sentence": 9.108108108108109
+      },
+      "532": {
+        "word_count": 510,
+        "character_count": 2709,
+        "sentence_count": 44,
+        "avg_words_per_sentence": 11.590909090909092
+      },
+      "533": {
+        "word_count": 409,
+        "character_count": 2202,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 11.36111111111111
+      },
+      "534": {
+        "word_count": 782,
+        "character_count": 4244,
+        "sentence_count": 55,
+        "avg_words_per_sentence": 14.218181818181819
+      },
+      "535": {
+        "word_count": 960,
+        "character_count": 4792,
+        "sentence_count": 64,
+        "avg_words_per_sentence": 15.0
+      },
+      "536": {
+        "word_count": 522,
+        "character_count": 2791,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 13.05
+      },
+      "537": {
+        "word_count": 543,
+        "character_count": 2824,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 15.083333333333334
+      },
+      "538": {
+        "word_count": 405,
+        "character_count": 2097,
+        "sentence_count": 30,
+        "avg_words_per_sentence": 13.5
+      },
+      "539": {
+        "word_count": 473,
+        "character_count": 2250,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 13.13888888888889
+      },
+      "540": {
+        "word_count": 464,
+        "character_count": 2378,
+        "sentence_count": 31,
+        "avg_words_per_sentence": 14.96774193548387
+      },
+      "541": {
+        "word_count": 464,
+        "character_count": 2615,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 13.257142857142858
+      },
+      "542": {
+        "word_count": 233,
+        "character_count": 1250,
+        "sentence_count": 22,
+        "avg_words_per_sentence": 10.590909090909092
+      },
+      "543": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "544": {
+        "word_count": 844,
+        "character_count": 5346,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 31.25925925925926
+      },
+      "545": {
+        "word_count": 531,
+        "character_count": 3393,
+        "sentence_count": 18,
+        "avg_words_per_sentence": 29.5
+      },
+      "546": {
+        "word_count": 552,
+        "character_count": 3415,
+        "sentence_count": 27,
+        "avg_words_per_sentence": 20.444444444444443
+      },
+      "547": {
+        "word_count": 1039,
+        "character_count": 6034,
+        "sentence_count": 52,
+        "avg_words_per_sentence": 19.98076923076923
+      },
+      "548": {
+        "word_count": 1014,
+        "character_count": 5929,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 22.533333333333335
+      },
+      "549": {
+        "word_count": 1015,
+        "character_count": 5811,
+        "sentence_count": 42,
+        "avg_words_per_sentence": 24.166666666666668
+      },
+      "550": {
+        "word_count": 950,
+        "character_count": 5776,
+        "sentence_count": 36,
+        "avg_words_per_sentence": 26.38888888888889
+      },
+      "551": {
+        "word_count": 1019,
+        "character_count": 5922,
+        "sentence_count": 45,
+        "avg_words_per_sentence": 22.644444444444446
+      },
+      "552": {
+        "word_count": 886,
+        "character_count": 5579,
+        "sentence_count": 34,
+        "avg_words_per_sentence": 26.058823529411764
+      },
+      "553": {
+        "word_count": 895,
+        "character_count": 5730,
+        "sentence_count": 35,
+        "avg_words_per_sentence": 25.571428571428573
+      },
+      "554": {
+        "word_count": 977,
+        "character_count": 5922,
+        "sentence_count": 40,
+        "avg_words_per_sentence": 24.425
+      },
+      "555": {
+        "word_count": 196,
+        "character_count": 1141,
+        "sentence_count": 11,
+        "avg_words_per_sentence": 17.818181818181817
+      },
+      "556": {
+        "word_count": 808,
+        "character_count": 5132,
+        "sentence_count": 58,
+        "avg_words_per_sentence": 13.931034482758621
+      },
+      "557": {
+        "word_count": 762,
+        "character_count": 4764,
+        "sentence_count": 177,
+        "avg_words_per_sentence": 4.305084745762712
+      },
+      "558": {
+        "word_count": 789,
+        "character_count": 5457,
+        "sentence_count": 158,
+        "avg_words_per_sentence": 4.993670886075949
+      },
+      "559": {
+        "word_count": 331,
+        "character_count": 2320,
+        "sentence_count": 61,
+        "avg_words_per_sentence": 5.426229508196721
+      },
+      "560": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      },
+      "561": {
+        "word_count": 283,
+        "character_count": 1825,
+        "sentence_count": 2,
+        "avg_words_per_sentence": 141.5
+      },
+      "562": {
+        "word_count": 310,
+        "character_count": 1931,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 77.5
+      },
+      "563": {
+        "word_count": 283,
+        "character_count": 1847,
+        "sentence_count": 5,
+        "avg_words_per_sentence": 56.6
+      },
+      "564": {
+        "word_count": 311,
+        "character_count": 2008,
+        "sentence_count": 7,
+        "avg_words_per_sentence": 44.42857142857143
+      },
+      "565": {
+        "word_count": 285,
+        "character_count": 1831,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 71.25
+      },
+      "566": {
+        "word_count": 298,
+        "character_count": 1879,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 74.5
+      },
+      "567": {
+        "word_count": 276,
+        "character_count": 1663,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 69.0
+      },
+      "568": {
+        "word_count": 268,
+        "character_count": 1756,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 268.0
+      },
+      "569": {
+        "word_count": 304,
+        "character_count": 1848,
+        "sentence_count": 5,
+        "avg_words_per_sentence": 60.8
+      },
+      "570": {
+        "word_count": 281,
+        "character_count": 1807,
+        "sentence_count": 3,
+        "avg_words_per_sentence": 93.66666666666667
+      },
+      "571": {
+        "word_count": 252,
+        "character_count": 1677,
+        "sentence_count": 2,
+        "avg_words_per_sentence": 126.0
+      },
+      "572": {
+        "word_count": 291,
+        "character_count": 1872,
+        "sentence_count": 3,
+        "avg_words_per_sentence": 97.0
+      },
+      "573": {
+        "word_count": 292,
+        "character_count": 1927,
+        "sentence_count": 2,
+        "avg_words_per_sentence": 146.0
+      },
+      "574": {
+        "word_count": 254,
+        "character_count": 1622,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 63.5
+      },
+      "575": {
+        "word_count": 279,
+        "character_count": 1731,
+        "sentence_count": 5,
+        "avg_words_per_sentence": 55.8
+      },
+      "576": {
+        "word_count": 259,
+        "character_count": 1710,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 259.0
+      },
+      "577": {
+        "word_count": 258,
+        "character_count": 1622,
+        "sentence_count": 5,
+        "avg_words_per_sentence": 51.6
+      },
+      "578": {
+        "word_count": 71,
+        "character_count": 444,
+        "sentence_count": 3,
+        "avg_words_per_sentence": 23.666666666666668
+      },
+      "579": {
+        "word_count": 15,
+        "character_count": 87,
+        "sentence_count": 4,
+        "avg_words_per_sentence": 3.75
+      }
+    }
+  },
+  {
+    "filename": "farsi_book.pdf",
+    "filepath": "./output/farsi_book.pdf",
+    "pages": 5,
+    "total_words": 25,
+    "total_characters": 125,
+    "total_sentences": 5,
+    "unique_words": 2,
+    "avg_words_per_page": 5.0,
+    "avg_chars_per_page": 25.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 5.0,
+    "top_words": {
+      "iiii": 10,
+      "iiiii": 10
+    },
+    "top_characters": {
+      "I": 90,
+      " ": 25,
+      "\n": 9,
+      "-": 5,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "page_stats": {
+      "1": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "2": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "3": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "4": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "5": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      }
+    }
+  },
+  {
+    "filename": "test_output.pdf",
+    "filepath": "./output/test_output.pdf",
+    "pages": 5,
+    "total_words": 25,
+    "total_characters": 125,
+    "total_sentences": 5,
+    "unique_words": 2,
+    "avg_words_per_page": 5.0,
+    "avg_chars_per_page": 25.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 5.0,
+    "top_words": {
+      "iiii": 10,
+      "iiiii": 10
+    },
+    "top_characters": {
+      "I": 90,
+      " ": 25,
+      "\n": 9,
+      "-": 5,
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "page_stats": {
+      "1": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "2": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "3": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "4": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "5": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      }
+    }
+  },
+  {
+    "filename": "farsi_page_1.pdf",
+    "filepath": "./output/farsi_page_1.pdf",
+    "pages": 50,
+    "total_words": 250,
+    "total_characters": 1291,
+    "total_sentences": 50,
+    "unique_words": 2,
+    "avg_words_per_page": 5.0,
+    "avg_chars_per_page": 25.82,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 5.0,
+    "top_words": {
+      "iiii": 100,
+      "iiiii": 100
+    },
+    "top_characters": {
+      "I": 900,
+      " ": 250,
+      "\n": 99,
+      "-": 50,
+      "1": 15,
+      "2": 15,
+      "3": 15,
+      "4": 15,
+      "5": 6,
+      "6": 5
+    },
+    "page_stats": {
+      "1": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "2": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "3": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "4": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "5": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "6": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "7": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "8": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "9": {
+        "word_count": 5,
+        "character_count": 25,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "10": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "11": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "12": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "13": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "14": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "15": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "16": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "17": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "18": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "19": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "20": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "21": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "22": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "23": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "24": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "25": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "26": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "27": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "28": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "29": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "30": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "31": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "32": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "33": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "34": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "35": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "36": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "37": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "38": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "39": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "40": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "41": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "42": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "43": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "44": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "45": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "46": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "47": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "48": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "49": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      },
+      "50": {
+        "word_count": 5,
+        "character_count": 26,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 5.0
+      }
+    }
+  },
+  {
+    "filename": "filesave.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/filesave.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "forward.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/forward.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "subplots.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/subplots.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "matplotlib.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/matplotlib.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "home.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/home.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "help.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/help.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "hand.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/hand.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "move.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/move.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "qt4_editor_options.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/qt4_editor_options.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "zoom_to_rect.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  },
+  {
+    "filename": "back.pdf",
+    "filepath": "./.venv/lib/python3.11/site-packages/matplotlib/mpl-data/images/back.pdf",
+    "pages": 1,
+    "total_words": 0,
+    "total_characters": 0,
+    "total_sentences": 1,
+    "unique_words": 0,
+    "avg_words_per_page": 0.0,
+    "avg_chars_per_page": 0.0,
+    "avg_sentences_per_page": 1.0,
+    "avg_words_per_sentence": 0.0,
+    "top_words": {},
+    "top_characters": {},
+    "page_stats": {
+      "1": {
+        "word_count": 0,
+        "character_count": 0,
+        "sentence_count": 1,
+        "avg_words_per_sentence": 0.0
+      }
+    }
+  }
+]

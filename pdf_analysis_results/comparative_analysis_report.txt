@@ -1,0 +1,186 @@
+PDF COMPARATIVE ANALYSIS REPORT
+==================================================
+
+SUMMARY STATISTICS:
+--------------------
+Total PDFs analyzed: 15
+Total pages: 650
+Total words: 253,462
+Total characters: 1,405,583
+Total sentences: 20,151
+
+PER-FILE BREAKDOWN:
+--------------------
+
+File: Bruce_Hyde,_Drew_Kopp_Speaking_Being_Werner_Erhard,_Martin_Heidegger (1).pdf
+  Pages: 579
+  Words: 253,162
+  Characters: 1,404,042
+  Sentences: 20,080
+  Unique words: 11,702
+  Avg words/page: 437.2
+  Avg chars/page: 2424.9
+  Avg sentences/page: 34.7
+  Avg words/sentence: 12.6
+
+File: farsi_book.pdf
+  Pages: 5
+  Words: 25
+  Characters: 125
+  Sentences: 5
+  Unique words: 2
+  Avg words/page: 5.0
+  Avg chars/page: 25.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 5.0
+
+File: test_output.pdf
+  Pages: 5
+  Words: 25
+  Characters: 125
+  Sentences: 5
+  Unique words: 2
+  Avg words/page: 5.0
+  Avg chars/page: 25.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 5.0
+
+File: farsi_page_1.pdf
+  Pages: 50
+  Words: 250
+  Characters: 1,291
+  Sentences: 50
+  Unique words: 2
+  Avg words/page: 5.0
+  Avg chars/page: 25.8
+  Avg sentences/page: 1.0
+  Avg words/sentence: 5.0
+
+File: filesave.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: forward.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: subplots.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: matplotlib.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: home.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: help.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: hand.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: move.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: qt4_editor_options.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: zoom_to_rect.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+File: back.pdf
+  Pages: 1
+  Words: 0
+  Characters: 0
+  Sentences: 1
+  Unique words: 0
+  Avg words/page: 0.0
+  Avg chars/page: 0.0
+  Avg sentences/page: 1.0
+  Avg words/sentence: 0.0
+
+STATISTICAL SUMMARY:
+--------------------
+Average pages per file: 43.3
+Average words per file: 16897.5
+Average characters per file: 93705.5
+Average sentences per file: 1343.4
+Average unique words per file: 780.5

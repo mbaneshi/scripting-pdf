@@ -9,7 +9,7 @@ import json
 from typing import List, Dict, Any
 from pathlib import Path
 
-def create_consolidated_translation_file(pages_dir: str = "simple_pages", output_file: str = "consolidated_100_pages.md", max_pages: int = 100):
+def create_consolidated_translation_file(pages_dir: str = "simple_pages", output_file: str = "consolidated_50_pages.md", max_pages: int = 50):
     """Create a single MD file with 200 pages for large chat translation"""
     
     print(f"📝 Creating consolidated translation file with {max_pages} pages...")
@@ -256,12 +256,12 @@ def main():
     # Create consolidated file
     total_chars, total_pages = create_consolidated_translation_file(
         pages_dir="simple_pages",
-        output_file="consolidated_100_pages.md",
-        max_pages=100
+        output_file="consolidated_50_pages.md",
+        max_pages=50
     )
     
     print(f"\n🎉 Consolidated translation file ready!")
-    print(f"📊 File: consolidated_100_pages.md")
+    print(f"📊 File: consolidated_50_pages.md")
     print(f"📄 Pages: {total_pages}")
     print(f"📊 Characters: {total_chars:,}")
     print(f"📊 Words (estimated): {total_chars // 5:,}")
@@ -276,7 +276,7 @@ def main():
         print("✅ Fits in Gemini Pro/Ultra")
     
     print(f"\n🚀 Usage:")
-    print(f"1. Open consolidated_100_pages.md")
+    print(f"1. Open consolidated_50_pages.md")
     print(f"2. Copy entire content")
     print(f"3. Paste into chat")
     print(f"4. Ask: 'Please translate this to Farsi'")

@@ -1,0 +1,34 @@
+=== PAGE 1 - FARSI TRANSLATION ===
+
+میلیون‌ها نفر ایده‌های ورنر ارهارد، یکی از تیزبین‌ترین و بینش‌مندترین متفکران نسل ما را تجربه کرده‌اند. این کتاب دو فرصت اضافی و نادر ارائه می‌دهد: خواندن متن یک فوروم رهبری شده توسط ارهارد، و در عین حال، راه‌رفتن با راهنمایی به همکاری‌های بین ارهارد و تفکر مارتین هایدگر.
+
+— دیوید ایگلمن، دکترا، عصب‌شناس در دانشگاه استنفورد، نویسنده پرفروش نیویورک تایمز
+
+سخن گفتن هستی
+ورنر ارهارد، مارتین هایدگر،
+و امکان جدیدی برای انسان بودن
+بروس هاید و درو کوپ
+پس‌گفتار توسط مایکل ای. زیمرمن
+
+=== ORIGINAL TEXT ===
+=== PAGE 1 ===
+
+“Millions have experienced the ideas of Werner Erhard, one of the most incisive 
+and insightful thinkers of our generation. This book gives two additional and rare 
+opportunities: to read the text of a Forum led by Erhard, and in parallel, to walk with 
+a guide to the synergies between Erhard and the thinking of Martin Heidegger.”
+— David Eagleman, PhD, neuroscientist at Stanford University, 
+New York Times bestselling author
+SPEAKING BEING
+WERNER ERHARD, MARTIN HEIDEGGER, 
+AND A NEW POSSIBILITY OF BEING HUMAN
+BRUCE HYDE AND DREW KOPP
+A FTERWO RD  BY  MI CH A EL E. ZIMMERMA N
+
+
+=== END OF PAGE 1 ===
+
+=== TRANSLATION INFO ===
+Translated by: AI Assistant
+Translation date: 2025-09-24 11:50:41
+Source file: page_001.txt

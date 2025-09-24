@@ -1,0 +1,97 @@
+=== PAGE 29 ===
+
+ 
+Forum Day One: Session One 
+15
+SAL 
+I believe that when it rains it rains in order to sustain life.
+ERHARD
+Okay, let’s stay there. Anybody else in that ballpark with Sal? Stand up if you are. Stand up if it 
+rains in-order-to.
+(a number of people rose)
+If you’re not standing and you are an in-order-to, you’re interfering with your participation in 
+The Forum. These people who are standing are not silly. They’ve got their foot nailed to the 
+fl oor someplace. This will happen to all of you a lot of times during The Forum.
+(to Sal, indicating the director’s chair on the platform)
+Are the legs there to hold up the chair? We know that the legs do hold up the chair. For the legs, 
+is there any in-order-to? Are the legs in-ordering-to?
+(pausing) 
+It’s too hard that way... let me try something diff erent. Is the wall standing in order to hold the
+ceiling up?
+SAL 
+Yes, in my opinion. 
+ERHARD
+Does the lightning lightning in order to start forest fi res?
+SAL 
+No.
+ERHARD
+Where is this organ of intentionality in the rainstorm?
+SAL 
+The spirituality of the universe.
+ERHARD  (to the group)
+He just told me where his foot’s nailed to the fl oor. He’s got something he believes so he can’t 
+think about it.
+(to Sal)
+You think there’s an intentionality in the rainstorm. You said it’s your belief that matter was
+invaded by spirit in some way. Does it rain in order to produce fl oods?
+usual way of conceptualizing. Think “freedom” and a conceptual
+barrage is evoked; think “Being” and the mind’s resources are few. 
+Our second thesis, since it eludes capture in concepts, 
+can only be hinted at. It exists always as a background, 
+in a domain of language that remains always unspoken. 
+Unspoken, it is the unexamined context that shapes the way we
+understand everything else; unspoken, it is made present as 
+the transformational background in the dialogue of The Forum;
+unspoken, it is hinted at persistently in Heidegger’s writing and in 
+his lectures. Our second thesis, then, is this unspoken domain of 
+language, formally referred to as the ontological realm. 
+In this book, to show what Werner Erhard and Martin 
+Heidegger are doing in their work, the authors are called upon 
+to say—to hint at—the unspoken shared dynamic at the center 
+of that work. Inevitably, an element of mystery attends this
+topic; but nothing here is devious or arcane. While ontological
+communication makes rigorous demands on our everyday
+understanding, Erhard’s work is a practical pedagogical 
+methodology, demonstrating that education beyond the merely 
+epistemological is a real-world possibility.
+The authors intend that our second thesis will be 
+communicated in the background as we proceed through this
+book, leaving the reader with a hint of its nature as it emerges in
+The Forum. 
+One aspect of this background communication is that 
+unfamiliar terms or concepts may not be fully defined at the 
+point of their first appearance. Rather, they will be distinguished 
+gradually as they appear and reappear in the text. A definition
+specifies conceptual limits; a distinction opens a space for 
+thinking and acting, and the space is expanded each time the
+distinction is encountered. The goal of the inquiry, then, is 
+never an answer, but the opening of a question from which 
+to experience the world. We invite the reader to embrace the 
+freedom that this background of questionability gives: at play in 
+the question, you don’t need the right answer.  ■
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 18,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.68,
+    "bottom": 54.62,
+    "left": 52.37,
+    "right": 34.58
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-It_9.5
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+ZapfDingbatsStd_9.5
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5
+SourceSansPro-Regular_9.5

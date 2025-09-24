@@ -1,0 +1,51 @@
+=== PAGE 14 ===
+
+Many academics in cultural studies accept postmodernity and content pedagogy 
+as unquestionable facts of the world, but with a paltry understanding of how these 
+ideas undermine our intention to produce morally conscious, action-oriented 
+citizens. In their lucid exposition of Werner Erhard’s methodology, Hyde and Kopp 
+off er a cogent roadmap out of such a paralyzing paradigm of knowledge and 
+subjectivity. Brilliantly, the authors use Martin Heidegger’s writing to illuminate
+Erhard’s work and The Forum’s compelling impact on participants. Readers will
+discover for themselves, based on the contexts they bring, a powerful pedagogy
+of transformation grounded in an ontological inquiry into human being that 
+leads students to discover their own paths of social agency and initiative. Highly 
+recommended!
+TRYSTAN T. COTTEN, Associate Professor, Gender Studies, University of California,
+Stanislaus, founder and managing editor of Transgress Press
+Speaking Being presents, perhaps for the first time, a complete transcript of an 
+actual Forum led by Werner Erhard, allowing the reader to directly observe and 
+experience the unique power of dialogue as a tool for human transformation. 
+Furthermore, authors Hyde and Kopp provide an intellectually satisfying
+correlation between the philosophical ideas of Martin Heidegger and the out-here-
+in-the-world work of Werner Erhard, revealing their surprising complementarity. I
+d
+congratulate the authors on achieving this tour de force.
+MICHAEL LESLIE, Associate Professor, Journalism and Communications,
+University of Florida
+xii 
+Praise for Speaking Being
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 5,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.77,
+    "bottom": 380.51,
+    "left": 36.0,
+    "right": 62.97
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-It_9.5
+SourceSansPro-Regular_9.0
+SourceSansPro-It_9.0
+SourceSansPro-Bold_9.0
+SourceSansPro-Semibold_9.5
+SourceSansPro-Regular_9.5

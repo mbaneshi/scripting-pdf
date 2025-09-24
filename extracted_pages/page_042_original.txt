@@ -1,0 +1,57 @@
+=== PAGE 42 ===
+
+28
+SPEAKING BEING
+ERHARD (pausing)
+You’ve got a story called pressure. You’ve got a story and then there’s what happened.
+BILL
+I just want to say that I was disillusioned by the salesmanship involved in getting me into the
+program...
+ERHARD (interrupting)
+What is this salesmanship?
+BILL
+Let me fi nish my sentence!
+ERHARD
+I’m not interested in your fi nishing your sentence when it’s bullshit.
+BILL
+Bullshit fl ows both ways.
+(laughter)
+ERHARD
+What is this salesmanship you’re talking about? You wouldn’t have been called any more if 
+you’d said no. You said “Call me some more.”
+(turning to the group)
+If you think you were pressured, I want you to stop lying about it and tell the truth about what 
+happened or get out of here. 
+BILL 
+Why don’t you look at me? These people aren’t interested in being entertained by you on my 
+eccentricities.
+ERHARD
+Bill, I’m more likely to know what they’re interested in than you. Are you able to make a choice 
+about being here now that you’ve got a choice? 
+BILL (stammering) 
+Some of what you’ve done is off ensive to me. I might get something. I don’t know.
+ERHARD
+Would you make that choice for me?
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 14,
+  "images_count": 0,
+  "has_columns": false,
+  "margins": {
+    "top": 26.93,
+    "bottom": 44.62,
+    "left": 36.0,
+    "right": 343.25
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5

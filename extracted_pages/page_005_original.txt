@@ -23,6 +23,6 @@ AFTERWORD BY MICHAEL E. ZIMMERMAN
 }
 
 === FONTS USED ===
-UniversLTStd-UltraCn_20.0
-UniversLTStd-UltraCn_28.0
 UniversLTStd-UltraCn_78.0
+UniversLTStd-UltraCn_28.0
+UniversLTStd-UltraCn_20.0

@@ -1,0 +1,43 @@
+=== PAGE 11 ===
+
+About the Authors 
+ix
+ABOUT THE AUTHORS
+BRUCE HYDE  (PhD, University of Southern California, 1990) was a Professor of 
+Communication Studies at St. Cloud State University until his death on October 
+13th, 2015 (1941-2015). His primary interests as an educator were with the 
+ontological dimensions of language and communication, and with dialogue as a
+non-polarized and non-polarizing form of public discourse.
+DREW KOPP  (PhD, University of Arizona, 2009) is an Associate Professor of 
+Writing Arts at Rowan University. His research interests focus on the theory and
+history of rhetorical pedagogies, and he has published articles in journals in the
+field of rhetoric and writing studies, including Rhetoric Review (2013), and
+w
+JAC:
+Rhetoric, Writing, Culture, Politics (2012). He has also contributed a chapter to the
+edited collection Disrupting Pedagogies in the Knowledge Society (2011).
+y
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 4,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.77,
+    "bottom": 435.96,
+    "left": 63.0,
+    "right": 36.61
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-It_9.5
+SourceSansPro-Regular_9.0
+UniversLTStd-UltraCn_24.0
+SourceSansPro-Bold_9.0
+UniversLTStd-UltraCn_14.0
+SourceSansPro-Regular_9.5

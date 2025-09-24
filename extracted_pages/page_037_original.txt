@@ -1,0 +1,58 @@
+=== PAGE 37 ===
+
+ 
+Forum Day One: Session One 
+23
+ERHARD
+I only do this work with people for whom it’s going to be successful, so I’m not willing to do 
+this work except on the basis that people chose to be here. What’s your choice?
+KATHY
+I choose to be in The Forum. 
+ERHARD
+No coercion? That’s your choice? Made freely?
+KATHY
+Yes. 
+ERHARD
+Thank you for going through the process in front of all these people.
+Along with Kathy, two other people sat down. The only participant who remained standing was a 
+young man in the front row named Bill, who spoke as soon as an assistant got a microphone to him:
+BILL (angrily)
+I think there’s kind of a thin line between choice and being compelled to do something because
+someone cared enough to continuously call me up and get me here.
+ERHARD (moving in to a face-to-face stance with Bill)
+You’re an asshole, and somebody...
+BILL
+Your language is bad.
+ERHARD
+It’s much worse than you think it is. You don’t want to fuck with me.
+BILL
+You don’t scare me.
+ERHARD
+You’re in my game, my friend, you don’t want to fuck with me.
+BILL
+Someone should use language to try to clear a point.
+ERHARD
+I understand what you believe. I’m not interested.
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 15,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.68,
+    "bottom": 20.62,
+    "left": 344.19,
+    "right": 36.6
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5

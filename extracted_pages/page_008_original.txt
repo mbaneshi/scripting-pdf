@@ -1,0 +1,20 @@
+=== PAGE 8 ===
+
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 0,
+  "images_count": 0,
+  "has_columns": false,
+  "margins": {
+    "top": 0,
+    "bottom": 0,
+    "left": 0,
+    "right": 0
+  }
+}
+
+=== FONTS USED ===

@@ -1,0 +1,63 @@
+=== PAGE 44 ===
+
+30
+SPEAKING BEING
+not the reasons, nobody else and nothing else. And you have reasons. That’s what I mean by 
+people don’t know their ass from a hole in the ground. People don’t know what put them in that
+chair. If you’re stuck with this idea that you were pressured, I want you out of here. I’m going 
+to say a lot of things in here and you’re only going to get them almost. I know that today you’re
+going to get almost nothing I say, because you’re going to put it in the language in which you
+dwell. Like “should.” I don’t dwell in the language of should. It’s patently obvious here. I’m 
+asking you who’s buried in Grant’s Tomb. This is not hard. You put yourself here.
+A participant raised a question about a friend he wanted to do The Forum. He described the man.
+PARTICIPANT
+Would he feel pressured? 
+ERHARD
+Yeah, because he’s an asshole.
+PARTICIPANT (laughs)
+Yeah, that’s true.
+ERHARD
+You see, you can’t pressure people who are straight. They give clear answers, like “no,” or 
+“don’t call me.” I invite people. I want to be clear what I mean by an invitation. An invitation
+for me always carries with it the power to decline.
+Erhard mounted the platform, and announced a break. However, he said, “in The Forum there are 
+no breaks,” so he gave the participants an assignment.
+ERHARD
+The assignment during the break is to sort out your “story” from “what happened.” Most people 
+live in the story and don’t live in the what happened. And there’s something disempowering 
+about living in the story instead of living in the what happened. The problem is that you are 
+thrown—that’s like already always—you are thrown to the story. You are addicted to the story.
+“People don’t like me” and “being insulted” never happen. I’m going to demonstrate insulting. 
+I’m going to insult you: I insult you. For the fi rst time in your life you’ve now been insulted as a
+what happened. All the other times, someone said something, and you got insulted. People have 
+t
+said you’re a jerk. But that’s somebody saying “You’re a jerk.” The insult was a story.
+t
+Having given the assignment, Erhard called Julie, The Forum Supervisor, to the podium. 
+ERHARD
+Julie’s the person who keeps this organized enough so that it can happen. So your cooperation 
+with her is in your interest.
+ERHARD (continuing)
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 12,
+  "images_count": 0,
+  "has_columns": false,
+  "margins": {
+    "top": 26.93,
+    "bottom": 40.8,
+    "left": 36.0,
+    "right": 342.83
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5

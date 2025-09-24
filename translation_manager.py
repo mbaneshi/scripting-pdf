@@ -143,14 +143,28 @@ def interactive_translation_mode(document_id, max_pages=50):
         print(f"\n🤖 AI Translation:")
         print("=" * 60)
         
-        # Here you would provide the translation
-        # For now, we'll create a placeholder
-        print("Please provide the Farsi translation for this page...")
-        print("(This is where you would input the translation)")
+        # Get actual translation from user
+        print("Please provide the Farsi translation for this page:")
+        print("(Type your Farsi translation below, then press Enter twice to finish)")
+        print("-" * 40)
         
-        # Placeholder translation (you would replace this)
-        translated_text = f"[FARSI TRANSLATION FOR PAGE {page.page_number}]\n\n{page_data.original_text}"
-        notes = f"Translated page {page.page_number} - placeholder translation"
+        translated_lines = []
+        while True:
+            try:
+                line = input()
+                if line.strip() == "" and len(translated_lines) > 0:
+                    break
+                translated_lines.append(line)
+            except EOFError:
+                break
+        
+        translated_text = "\n".join(translated_lines).strip()
+        
+        if not translated_text:
+            print("⚠️  No translation provided, skipping this page...")
+            continue
+        
+        notes = f"Manual translation provided for page {page.page_number}"
         
         # Save translation
         if save_translation(page.id, translated_text, notes):
@@ -187,10 +201,26 @@ def batch_translation_mode(document_id, max_pages=50):
         show_page_content(page.id)
         
         print(f"\n🤖 TRANSLATION REQUIRED:")
-        print("Please provide Farsi translation for this page...")
+        print("Please provide Farsi translation for this page:")
+        print("(Type your Farsi translation below, then press Enter twice to finish)")
+        print("-" * 40)
         
-        # Here you would provide the actual translation
-        translated_text = f"[FARSI TRANSLATION FOR PAGE {page.page_number}]\n\n{page.original_text}"
+        translated_lines = []
+        while True:
+            try:
+                line = input()
+                if line.strip() == "" and len(translated_lines) > 0:
+                    break
+                translated_lines.append(line)
+            except EOFError:
+                break
+        
+        translated_text = "\n".join(translated_lines).strip()
+        
+        if not translated_text:
+            print("⚠️  No translation provided, skipping this page...")
+            continue
+        
         notes = f"Batch translation - page {page.page_number}"
         
         # Save translation

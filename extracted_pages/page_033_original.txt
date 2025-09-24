@@ -1,0 +1,60 @@
+=== PAGE 33 ===
+
+ 
+Forum Day One: Session One 
+19
+ERHARD
+What we were discussing is this in-order-to. I say the rain has no intention to do anything.
+There’s nothing there that could intend. It just rains when it rains. There’s no intention in the
+rain. Look, Charles, I’m doing something in the conversation which is designed to allow you to
+take a look at your own beliefs. I’m asking questions which reduce your thesis to an absurdity.
+If I ask if it rains in order to destroy life, you have to say yes if you believe that it rains in order
+to sustain life, and so it makes you reexamine your theory. If you can consider the possibility 
+that there is no intention in the rainstorm, then you are no longer stuck with what you used to 
+believe.
+CHARLES
+I’ll keep looking at it.
+ERHARD
+We have to go quickly now or there won’t be any fi fth night. There’ll be a twelfth night. 
+Someone raised a question about why participants were not allowed to take notes in The Forum, a policy 
+that had been communicated when they registered for the course.
+ERHARD
+Because we don’t want you to retain information. So you don’t get stuck trying to remember 
+something. You think Bjorn Borg remembers how to hold the tennis racket? This is no diff erent
+than the conversation about the rainstorm.
+(loudly)
+You have this superstition that you do things because you remember how to do them! You don’t 
+drive your car, play tennis, or live life powerfully and eff ectively out of anything you remember. 
+If Joe Montana had to remember how to throw the football when he’s back in the pocket, he’d
+get killed every Sunday.
+A woman named Doris rose with a question about the rainstorm:
+DORIS
+What about the role of ultimate being in natural events?
+ERHARD
+I don’t like to discuss ultimate being with people who don’t know their ass from a hole in the 
+ground.
+DORIS
+I fi nd that response pretty off ensive.
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 11,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.68,
+    "bottom": 60.62,
+    "left": 343.13,
+    "right": 35.62
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5

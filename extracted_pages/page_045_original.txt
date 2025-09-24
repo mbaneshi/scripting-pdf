@@ -1,0 +1,35 @@
+=== PAGE 45 ===
+
+ 
+Forum Day One: Session One 
+31
+After Erhard left the room, Julie requested that due to the size of the group all participants should
+be respectful of the hotel. She pointed out the assistants who could direct participants to pay phones
+and bathrooms. “We request that you don’t eat on this break,” she said. “If you must eat for medical
+reasons, please see Wes,” one of the two Forum leaders who were assisting Erhard. Finally she in-
+troduced the other four Forum supervisors who were working with her, and who were available to
+answer their questions. Finally, as she would before every break, she read the names of participants
+who had received telephone messages during the session.
+The Forum adjourned for a break at 12:40 pm.
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 3,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.68,
+    "bottom": 444.51,
+    "left": 344.65,
+    "right": 36.61
+  }
+}
+
+=== FONTS USED ===
+STIXTwoText_9.5
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+STIXTwoText_10.0

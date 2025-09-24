@@ -1,0 +1,31 @@
+=== PAGE 7 ===
+
+To the students in my Communication Studies classes at St. Cloud State University, who for the past twenty-five years have been 
+my partners in the play and mystery of ontological inquiry; and to my wife Susan Saetre, my constant guardian angel.
+BRUCE
+To my friend and writing partner, Bruce Hyde (1941-2015), who blazed a trail with his unrelenting commitment to communicate 
+the unsaid. What a gift  to have worked with a man of such brilliance, humor, and courage, even unto death, and with this book,
+Bruce will continue to speak to each reader willing to take up the call to enter the conversation this book is but a fragment of.
+I also dedicate this book to my students, ever my co-experimenters in the inquiry of what it means to be a writer and a reader; 
+and to my wife Cindy, and my children, Tristan and Cassidy: I dedicate the fruits of my labor to your future.
+DREW
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 4,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 217.5,
+    "bottom": 224.43,
+    "left": 158.01,
+    "right": 129.79
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-It_9.5
+UniversLTStd-UltraCn_14.0

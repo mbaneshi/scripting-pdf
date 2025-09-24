@@ -1,0 +1,81 @@
+=== PAGE 26 ===
+
+12
+SPEAKING BEING
+not going to like. You’re sitting there now with a whole bunch of assessments and conclusions.
+We’ve done this a lot. I can even tell you what your assessments and conclusions are.
+A participant asked whether, based on all of this, he should keep his specifi c issues and concerns
+foremost in his mind.
+ERHARD
+You don’t need to have something you’re kind of holding in place. We will hook what’s there
+in you that’s appropriate to be hooked and pull it up to the surface. So you can kind of relax 
+about that. A lot of stuff  you won’t even think about will get handled in here.
+Another participant asked about the history of the organization.
+ERHARD
+We’ve been doing this work since 1971 and it was at the end of 1984 that we fi nished a four-
+year process of developing The Forum, and we’ve been off ering The Forum since 1985 all over 
+this country, and in lots of other countries around the world.
+At this point, a man named Jake rose to complain about the purpose of the evening session, to
+which participants had been encouraged to invite guests.
+JAKE
+Isn’t that more for Werner Erhard and Associates to hustle more members?
+ERHARD
+You know that you are a hustle waiting to happen, right?
+JAKE
+I said I feel like I’m being hustled.
+ERHARD
+I said you are a guy who is being hustled waiting to happen.
+JAKE
+I don’t mind being hustled.
+ERHARD
+I said you are a guy who is being hustled waiting to happen.
+JAKE
+I don’t see it that way.
+Erhard came down from the stage and sat on the edge of the platform near him.
+Dasein
+At the outset, it is important to introduce a term that is central 
+in Martin Heidegger’s work, and will therefore begin to come up 
+here almost immediately.
+Dasein is Heidegger’s word for the Being of human beings,
+and is one of the few terms in English editions of his writing 
+that consistently remain untranslated from the German. In 
+fact, the 2014 Dictionary of Untranslatables, published by
+Princeton University Press, calls the word “a paradigm of the 
+untranslatable,” and devotes six double-columned pages to a
+struggle to explain it (Adam Gopnik, “Word Magic,” New Yorker,. 
+May 26, 2014, 37).
+A problem with translating this term, of course, is that term
+is central in Heidegger’s most important work, Being and Time, 
+in which he presents his ontological model of human beings. 
+The specific elements of this model will be discussed in further 
+detail as we proceed. For now, it is sufficient to note that Dasein 
+will be spoken of as if the term indicates an individual; but since
+it indicates the Being of that individual, it refers at the same time 
+more broadly to the collective Being of human beings.  
+ERHARD (continuing)
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 20,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.93,
+    "bottom": 32.99,
+    "left": 36.0,
+    "right": 58.07
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-It_9.5
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_12.0
+SourceSansPro-Bold_9.0
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5
+SourceSansPro-Regular_9.5

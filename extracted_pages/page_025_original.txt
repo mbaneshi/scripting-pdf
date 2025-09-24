@@ -1,0 +1,78 @@
+=== PAGE 25 ===
+
+ 
+Forum Day One: Session One 
+11
+LYNETTE
+Do you have any more advice about how to get the most out of this?
+ERHARD
+I do and we’ll go over that this morning.
+TRENT
+I hear there are Forum leaders here.
+ERHARD
+Forum leaders are here as part of their job.
+TRENT
+Four consecutive days instead of two weekends?
+ERHARD
+We’ve done this using odd schedules in diff erent settings, for instance, in  prisons.
+BLAKE (who expressed reservations about speaking)
+Continuing what you were saying as far as upset is concerned, and always being with you. My 
+barrier is the fear of revealing who I am. I should accept that.
+ERHARD
+Whatever you think is in the way, especially those things you think are part of the circum-
+stances—for instance, you don’t get along with your boss and it’s quite clear to you that’s 
+because you work for a jerk—bring that in here. Blake is clear that it’s something he carries
+around with him; it doesn’t come out of the circumstances. That’s easy. It’s the stuff  you think
+is a product of the circumstances. So if there are circumstances in here, for instance, because
+there are people observing—that sounds like it is a product of the circumstances.
+CHRISSY
+You talked about being in The Forum whatever way you are being. What about outside
+The Forum?
+ERHARD
+Let yourself be like you are in those parts of The Forum that are outside The Forum, for
+homework assignments during the breaks, etc. If that’s your mood at the moment, don’t try to
+change it. You want it there because if it isn’t there it’s not going to get dealt with—particularly 
+those things you think are part of the circumstances: bring that in here. Most of what you do
+outside The Forum in the next four days is going to be inside The Forum. If you do something 
+to avoid that, then you’ve successfully avoided that once more. See, there’s a lot of this you’re
+his development of an ontological/phenomenological model of 
+leadership (https://papers.ssrn.com/sol3/ cf_dev/ AbsByAuth.
+cfm?per_id=433651), he continues to employ the lowercase. 
+In this book, we will employ capitalization in those instances 
+where it clarifies the word’s meaning in a specific sentence. 
+We raise the point here to emphasize the unique nature of the
+issues that arise in any discussion, oral or written, of this subject. 
+Being/being, as an ontological phenomenon, defies grammatical
+categorization. ■
+NOTE:  As of 2019, Landmark Worldwide’s Forum leader 
+faculty included more than 60 people, representing a diver-
+sity in gender and race, and hailing from countries including
+the United States of America, India, Japan, Australia, 
+New Zealand, the United Kingdom, Canada, Israel, the
+Netherlands and Switzerland. 
+
+
+=== LAYOUT INFO ===
+{
+  "page_width": 783.0,
+  "page_height": 612.0,
+  "text_blocks_count": 14,
+  "images_count": 0,
+  "has_columns": true,
+  "margins": {
+    "top": 26.68,
+    "bottom": 48.62,
+    "left": 52.37,
+    "right": 36.6
+  }
+}
+
+=== FONTS USED ===
+SourceSansPro-Regular_9.0
+SourceSansPro-Bold_9.0
+ZapfDingbatsStd_9.5
+STIXTwoText_9.5
+STIXTwoText-Italic_9.5
+STIXTwoText-Bold_9.5
+SourceSansPro-Semibold_9.5
+SourceSansPro-Regular_9.5
